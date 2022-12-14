@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8ppimjd76GaaOiDAj7a1U
+UID:6-qvnn-DIzVpz3MbfVcRk
 SUMMARY:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221217T120000Z
 DESCRIPTION:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length\n2022 R
 	ated R13\nPlaying as part of Academy's Christmas programme this December! 
@@ -26,9 +26,9 @@ DESCRIPTION:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length\n2022 R
 DURATION:PT312M
 END:VEVENT
 BEGIN:VEVENT
-UID:ud65vgFPx4alj15KGASEj
+UID:iAZxMdG-5tTzXYnLYhsBN
 SUMMARY:Academy Xmas: In Bruges (2008)
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221221T180000Z
 DESCRIPTION:Academy Xmas: In Bruges (2008)\n2022 Rated R16\nPlaying as part
 	 of Academy's Christmas programme this December! Tickets only $5 - get in 
@@ -47,9 +47,9 @@ DESCRIPTION:Academy Xmas: In Bruges (2008)\n2022 Rated R16\nPlaying as part
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZTq1MwTRobk8AcpDsZhmH
+UID:y7sCIHbfzeyg1CqhxhCgE
 SUMMARY:Academy Xmas: It Happened On Fifth Avenue (1947)
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221219T181500Z
 DESCRIPTION:Academy Xmas: It Happened On Fifth Avenue (1947)\n2022 Rated TB
 	C\nPlaying as part of Academy's Christmas programme this December! <br /><
@@ -67,9 +67,9 @@ DESCRIPTION:Academy Xmas: It Happened On Fifth Avenue (1947)\n2022 Rated TB
 DURATION:PT116M
 END:VEVENT
 BEGIN:VEVENT
-UID:a7UbLByE58C0uyHSBdZyy
+UID:lylDEsy-2J0A9j4HR2wZu
 SUMMARY:Academy Xmas: L.A. Confidential (1997)
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221216T201500Z
 DESCRIPTION:Academy Xmas: L.A. Confidential (1997)\n2022 Rated R18\nPlaying
 	 as part of Academy's Christmas programme this December! <br /><br />Three
@@ -89,23 +89,9 @@ DESCRIPTION:Academy Xmas: L.A. Confidential (1997)\n2022 Rated R18\nPlaying
 DURATION:PT138M
 END:VEVENT
 BEGIN:VEVENT
-UID:RAinV-VzgpwbPTnfiIVXY
-SUMMARY:Academy Xmas: Love Actually (2003)
-DTSTAMP:20221213T122200Z
-DTSTART:20221214T180000Z
-DESCRIPTION:Academy Xmas: Love Actually (2003)\n2022 Rated M\nPlaying as pa
-	rt of Academy's Christmas programme this December! A special Christmas $5 
-	screening of everyone's favourite early 2000s holiday anthology classic. <
-	br /><br />'Follows the lives of eight very different couples in dealing w
-	ith their love lives in various loosely interrelated tales all set during 
-	a frantic month before Christmas in London\, England.'\nhttps://ticketing.
-	oz.veezi.com/purchase/30312?siteToken&#x3D\;v0auk7pklihk8hj1zv8c47d76o
-DURATION:PT135M
-END:VEVENT
-BEGIN:VEVENT
-UID:Jx6117lxfJVlc376UdvJt
+UID:MjR_71MgWVKDrLfYSqHZ9
 SUMMARY:Academy Xmas: Spaghetti Western Ringo Double Bill
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221218T150000Z
 DESCRIPTION:Academy Xmas: Spaghetti Western Ringo Double Bill\n2022 Rated T
 	BC\nThe original Ringo films introduced another iconic hero to the spaghet
@@ -134,9 +120,9 @@ DESCRIPTION:Academy Xmas: Spaghetti Western Ringo Double Bill\n2022 Rated T
 DURATION:PT215M
 END:VEVENT
 BEGIN:VEVENT
-UID:18Ygr8DrrajYXndWw3Zm4
+UID:q18NhNnf8YWBaTMY0kQki
 SUMMARY:Alliance Francaise Screening: Santa &amp\; Cie
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221216T180000Z
 DESCRIPTION:Alliance Francaise Screening: Santa &amp\; Cie\n2022 Rated TBC\
 	nChristmas is on its way and with it disaster. The 92\,000 responsible for
@@ -149,9 +135,9 @@ DESCRIPTION:Alliance Francaise Screening: Santa &amp\; Cie\n2022 Rated TBC\
 DURATION:PT92M
 END:VEVENT
 BEGIN:VEVENT
-UID:g-J_f8LG_k8g8uKb0-9bP
+UID:b47sXX9f2JwCBxxUeA1Wp
 SUMMARY:BROS
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221214T204500Z
 DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 	r\, Universal Pictures proudly presents the first romantic comedy from a m
@@ -176,9 +162,9 @@ DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 DURATION:PT115M
 END:VEVENT
 BEGIN:VEVENT
-UID:Dmg2VQJwCxIyeWLIVq-OF
+UID:nn-e8awjaC6f-C0yQ-vVk
 SUMMARY:BROS
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221221T124500Z
 DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 	r\, Universal Pictures proudly presents the first romantic comedy from a m
@@ -203,9 +189,9 @@ DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 DURATION:PT115M
 END:VEVENT
 BEGIN:VEVENT
-UID:bTFWnrzc0fFKOmjSxzrSg
+UID:MQgRxN0ULxlpNNbKSwV3f
 SUMMARY:Back to the Future Trilogy Marathon
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20230108T163000Z
 DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience 
 	the future all over again with the Back to the Future Trilogy marathon at 
@@ -220,32 +206,9 @@ DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience
 DURATION:PT343M
 END:VEVENT
 BEGIN:VEVENT
-UID:RzQapiy43WGcYG0jyxINu
+UID:kQUZo8KSTr6DQxpvbpNCA
 SUMMARY:Black Adam
-DTSTAMP:20221213T122200Z
-DTSTART:20221214T151500Z
-DESCRIPTION:Black Adam\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />From
-	 New Line Cinema\, Dwayne Johnson stars in the action-adventure “Black Ada
-	m.”  The first-ever feature film to explore the story of the DC Super Hero
-	 comes to the big screen under the direction of Jaume Collet-Serra (“Jungl
-	e Cruise”).<br /><br />Nearly 5\,000 years after he was bestowed with the 
-	almighty powers of the ancient gods—and imprisoned just as quickly—Black A
-	dam (Johnson) is freed from his earthly tomb\, ready to unleash his unique
-	 form of justice on the modern world.<br /><br />Johnson stars alongside A
-	ldis Hodge (“City on a Hill\,” “One Night in Miami”) as Hawkman\, Noah Cen
-	tineo (“To All the Boys I’ve Loved Before”) as Atom Smasher\, Sarah Shahi 
-	(“Sex/Life\,” “Rush Hour 3”) as Adrianna\, Marwan Kenzari (“Murder on the 
-	Orient Express\,” “The Mummy”) as Ishmael\, Quintessa Swindell (“Voyagers\
-	,” “Trinkets”) as Cyclone\, Bodhi Sabongui (“A Million Little Things”) as 
-	Amon\, and Pierce Brosnan (the “Mamma Mia!” and James Bond franchises) as 
-	Dr. Fate.\nhttps://ticketing.oz.veezi.com/purchase/30391?siteToken&#x3D\;v
-	0auk7pklihk8hj1zv8c47d76o
-DURATION:PT125M
-END:VEVENT
-BEGIN:VEVENT
-UID:IxKQmL0JAOvomWW0-CJzc
-SUMMARY:Black Adam
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221221T151500Z
 DESCRIPTION:Black Adam\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />From
 	 New Line Cinema\, Dwayne Johnson stars in the action-adventure “Black Ada
@@ -266,9 +229,9 @@ DESCRIPTION:Black Adam\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />From
 DURATION:PT125M
 END:VEVENT
 BEGIN:VEVENT
-UID:DwLH78eoBPXTzSFB22Q_m
+UID:_5Fp44oCAErw33oP6j7qP
 SUMMARY:Black Panther: Wakanda Forever
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20230111T171500Z
 DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 	day.<br /><br />In Marvel Studios’ Black Panther: Wakanda Forever\, Queen 
@@ -286,9 +249,9 @@ DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 DURATION:PT161M
 END:VEVENT
 BEGIN:VEVENT
-UID:DYe7-4_W9Jh5qWnmeOP8T
+UID:t1CQahBmW0oOCRDbsqWuA
 SUMMARY:Bones and All
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221215T154500Z
 DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 	 on sale NOW!<br /><br />The gory new horror romance from the director of 
@@ -307,9 +270,9 @@ DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:II5KRQLchLDkgMLzrvI7X
+UID:AZF8Qk9CT2pR-c6hOMV6B
 SUMMARY:Bones and All
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221220T203000Z
 DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 	 on sale NOW!<br /><br />The gory new horror romance from the director of 
@@ -328,9 +291,9 @@ DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:6iMjgPpQy3bw24cTdOAzC
+UID:zmGH2hz86M6YBF2EKnNsb
 SUMMARY:Early Preview Screening: The Fabelmans
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221222T193000Z
 DESCRIPTION:Early Preview Screening: The Fabelmans\n2022 Rated M\nCatch a s
 	pecial\, early preview screening of the Steven Spielberg's acclaimed new a
@@ -356,9 +319,9 @@ DESCRIPTION:Early Preview Screening: The Fabelmans\n2022 Rated M\nCatch a s
 DURATION:PT151M
 END:VEVENT
 BEGIN:VEVENT
-UID:JC8i5sl3xvE8n4kvOjGE4
+UID:mnHOZi2DULzcDUpgaqfBX
 SUMMARY:Laneway Festival presents Licorice Pizza
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20230114T203000Z
 DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 	e returning to New Zealand to headline Laneway Festival 2023 and we’re cel
@@ -382,9 +345,9 @@ DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 DURATION:PT133M
 END:VEVENT
 BEGIN:VEVENT
-UID:T827BNxc45ZtgBEUHtbfv
+UID:CcFUDjYSue8ThM1XYmyva
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20230108T120000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -400,9 +363,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:lGU-iL51C-6aA_mQ5NuCs
+UID:fz1dd4Dvo9IltXAXFIpzc
 SUMMARY:Members Free Mystery Screening
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221220T180000Z
 DESCRIPTION:Members Free Mystery Screening\n2022 Rated M\nA specially selec
 	ted one-off free screening of a mystery classic film for Academy Members -
@@ -414,9 +377,9 @@ DESCRIPTION:Members Free Mystery Screening\n2022 Rated M\nA specially selec
 DURATION:PT120M
 END:VEVENT
 BEGIN:VEVENT
-UID:1F1AzYoxToMnRrUTZAdEK
+UID:KvYxp5cZkPSozzize-tV1
 SUMMARY:Mister Organ
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221218T124500Z
 DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 	ier (Tickled\, Dark Tourist) becomes fascinated by the late-night antics o
@@ -449,9 +412,9 @@ DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:YaFkwK5w8hAczvuuf01qB
+UID:ZGWc8WT-NspUL8akW8VYZ
 SUMMARY:Mister Organ
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221219T161500Z
 DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 	ier (Tickled\, Dark Tourist) becomes fascinated by the late-night antics o
@@ -484,9 +447,9 @@ DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:psYmrATMi5ZXH0eHU1ks3
+UID:TMi2vK_RDEfX7qA1YPCGi
 SUMMARY:R18 Screening: The Muppet Christmas Carol (1992)
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221215T183000Z
 DESCRIPTION:R18 Screening: The Muppet Christmas Carol (1992)\n2022 Rated G\
 	nPlaying as part of Academy's Christmas programme this December! A special
@@ -500,9 +463,9 @@ DESCRIPTION:R18 Screening: The Muppet Christmas Carol (1992)\n2022 Rated G\
 DURATION:PT85M
 END:VEVENT
 BEGIN:VEVENT
-UID:hQHBSzqO2lRwizAGgi3Dw
+UID:WwqOmdwCYkpsZg7wl77tA
 SUMMARY:She Said
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221221T203000Z
 DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 	me Academy Award® nominee Carey Mulligan (Promising Young Woman\, An Educa
@@ -525,23 +488,9 @@ DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 DURATION:PT129M
 END:VEVENT
 BEGIN:VEVENT
-UID:xoJYR0mhEL0G9YsfcS5Y7
-SUMMARY:Stars at Noon
-DTSTAMP:20221213T122200Z
-DTSTART:20221214T122000Z
-DESCRIPTION:Stars at Noon\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br /
-	>Sharing the Grand Prix at the Cannes Film Festival this year\, Claire Den
-	is’s newest film (and second this year) is a steamy tropical reverie starr
-	ing Margaret Qualley as a journalist moonlighting as a sex worker\, who is
-	 stranded in Nicaragua and sees a handsome English businessman (played by 
-	Joe Alwyn) as her chance to escape.\nhttps://ticketing.oz.veezi.com/purcha
-	se/30392?siteToken&#x3D\;v0auk7pklihk8hj1zv8c47d76o
-DURATION:PT136M
-END:VEVENT
-BEGIN:VEVENT
-UID:rbk9GbOGTW8aKnR1BbhMK
+UID:dE8__q54F9eukZSCnU5l0
 SUMMARY:The Big Lebowski (1998)
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20230111T203000Z
 DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 	s cult classic THE BIG LEBOWSKI is back on $5 Wednesday!<br /><br />Be pre
@@ -557,9 +506,9 @@ DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 DURATION:PT117M
 END:VEVENT
 BEGIN:VEVENT
-UID:k85zTnV4qxRTx5oYtzaJw
+UID:OVzYOaoWceKdIS8symuQT
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221215T203000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -574,9 +523,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:w9Iqw4mN7OKYlEun2Ia51
+UID:rrdD3-9bCrHX5-bnHS92L
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221216T153000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -591,9 +540,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:qub9lzSdUgvjcp7hLqA2g
+UID:roV2xaK3Db3anyeD01rr8
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221217T183000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -608,9 +557,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:0_qIFZ81tuDpWSHzcfQ0i
+UID:HwblNu9de9Od-DqkV5uiQ
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221218T192000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -625,9 +574,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:dpeEhcoGZv6wScJeb9ZGH
+UID:JcVPxWPsVDdCIp9WeUL_d
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221219T204500Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -642,9 +591,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:dDLDQ5O2L7ohNBwftNrjp
+UID:YtAuOJn3jIY8Hx8RpNG5H
 SUMMARY:The Menu
-DTSTAMP:20221213T122200Z
+DTSTAMP:20221214T122300Z
 DTSTART:20221220T153000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe

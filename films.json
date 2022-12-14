@@ -104,32 +104,6 @@
     ]
   },
   {
-    "url": "love-actually-2003",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1603863033284_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1638852861962_Poster.jpeg",
-    "title": "Academy Xmas: Love Actually (2003)",
-    "releaseDate": "2022-12-14T00:00:00.000Z",
-    "endpoint": "ST00003423",
-    "duration": "135 mins",
-    "rating": "Rated M",
-    "director": "Richard Curtis",
-    "actors": "Chiwetel  Ejiofor,Kris Marshall,Laura Linney,Hugh Grant,Rowan Atkinson,Colin Firth,Liam Neeson,Bill Nighy,Keira Knightley,Emma Thompson,Alan Rickman,Martin Freeman",
-    "synopsis": "Playing as part of Academy's Christmas programme this December! A special Christmas $5 screening of everyone's favourite early 2000s holiday anthology classic. <br /><br />'Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.'",
-    "sessionList": [
-      {
-        "date": "2022-12-14",
-        "times": [
-          {
-            "time": "6:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30312?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "url": "academy-xmas-spaghetti-western-ringo-double-bill",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668421560258_Poster.png",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668421561014_Poster.jpg",
@@ -257,17 +231,6 @@
     "actors": "Aldis Hodge,Dwayne Johnson,Sarah Shahi,Noah Centineo,Bodhi Sabongui,Pierce Brosnan",
     "synopsis": "Playing $5 Wednesday.<br /><br />From New Line Cinema, Dwayne Johnson stars in the action-adventure “Black Adam.”  The first-ever feature film to explore the story of the DC Super Hero comes to the big screen under the direction of Jaume Collet-Serra (“Jungle Cruise”).<br /><br />Nearly 5,000 years after he was bestowed with the almighty powers of the ancient gods—and imprisoned just as quickly—Black Adam (Johnson) is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.<br /><br />Johnson stars alongside Aldis Hodge (“City on a Hill,” “One Night in Miami”) as Hawkman, Noah Centineo (“To All the Boys I’ve Loved Before”) as Atom Smasher, Sarah Shahi (“Sex/Life,” “Rush Hour 3”) as Adrianna, Marwan Kenzari (“Murder on the Orient Express,” “The Mummy”) as Ishmael, Quintessa Swindell (“Voyagers,” “Trinkets”) as Cyclone, Bodhi Sabongui (“A Million Little Things”) as Amon, and Pierce Brosnan (the “Mamma Mia!” and James Bond franchises) as Dr. Fate.",
     "sessionList": [
-      {
-        "date": "2022-12-14",
-        "times": [
-          {
-            "time": "3:15pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30391?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2022-12-21",
         "times": [
@@ -530,32 +493,6 @@
           {
             "time": "8:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30353?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "stars-at-noon",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1667264102820_Poster.png",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1667697128520_Poster.jpg",
-    "title": "Stars at Noon",
-    "releaseDate": "2022-11-17T00:00:00.000Z",
-    "endpoint": "ST00004661",
-    "duration": "136 mins",
-    "rating": "Rated R16",
-    "director": "Claire Denis",
-    "actors": "Joe Alwyn,John C.  Reilly,Margaret  Qualley,Benny  Safdie",
-    "synopsis": "Playing $5 Wednesday.<br /><br />Sharing the Grand Prix at the Cannes Film Festival this year, Claire Denis’s newest film (and second this year) is a steamy tropical reverie starring Margaret Qualley as a journalist moonlighting as a sex worker, who is stranded in Nicaragua and sees a handsome English businessman (played by Joe Alwyn) as her chance to escape.",
-    "sessionList": [
-      {
-        "date": "2022-12-14",
-        "times": [
-          {
-            "time": "12:20pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30392?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
