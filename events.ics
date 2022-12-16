@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3xM5wwt2Ma2yvW5eSKBSH
+UID:IHP-_oLcaUn5T3-mRajSp
 SUMMARY:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221217T120000Z
 DESCRIPTION:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length\n2022 R
 	ated R13\nPlaying as part of Academy's Christmas programme this December! 
@@ -26,9 +26,9 @@ DESCRIPTION:Academy Xmas: Fanny &amp\; Alexander (1982) Full Length\n2022 R
 DURATION:PT312M
 END:VEVENT
 BEGIN:VEVENT
-UID:9wKhkbRSGw70IlHWnYSz_
+UID:L3QRQFqFLTtsmswGzC7qO
 SUMMARY:Academy Xmas: In Bruges (2008)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221221T180000Z
 DESCRIPTION:Academy Xmas: In Bruges (2008)\n2022 Rated R16\nPlaying as part
 	 of Academy's Christmas programme this December! Tickets only $5 - get in 
@@ -47,9 +47,9 @@ DESCRIPTION:Academy Xmas: In Bruges (2008)\n2022 Rated R16\nPlaying as part
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:12W1a7z26WWtQ1JIET1Za
+UID:rVXLwJXHYFCJVj5279eBY
 SUMMARY:Academy Xmas: It Happened On Fifth Avenue (1947)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221219T181500Z
 DESCRIPTION:Academy Xmas: It Happened On Fifth Avenue (1947)\n2022 Rated G\
 	nPlaying as part of Academy's Christmas programme this December! <br /><br
@@ -67,31 +67,9 @@ DESCRIPTION:Academy Xmas: It Happened On Fifth Avenue (1947)\n2022 Rated G\
 DURATION:PT116M
 END:VEVENT
 BEGIN:VEVENT
-UID:3k4ZY6Fi0jsExhjd4TEPz
-SUMMARY:Academy Xmas: L.A. Confidential (1997)
-DTSTAMP:20221215T122300Z
-DTSTART:20221216T201500Z
-DESCRIPTION:Academy Xmas: L.A. Confidential (1997)\n2022 Rated R18\nPlaying
-	 as part of Academy's Christmas programme this December! <br /><br />Three
-	 detectives in the corrupt and brutal L.A. policeforce of the 1950s use di
-	ffering methods to uncover aconspiracy behind the shotgun slayings of the 
-	patrons at an all night diner in this lush tribute to tough film noir crim
-	e films.<br /><br />Based on James Ellroy’s 1990 neo-noir novel\, this Cha
-	ndler-esque pulp film sneaks behind the scenes of Hollywood’s starlets\, p
-	roduction bosses and the notoriously corrupt police department as all thei
-	r paths violently cross in 1950s Los Angeles. Much like that era’s magazin
-	e Confidential—a pioneer in distributing the smut and scandal (both true a
-	nd made-up) of Hollywood stars to the general public—the film revels in bo
-	th the real and the mythic grit\, grime and glamour. <br /><br />With stel
-	lar performances\, nuanced characters and complex twists\, L.A. CONFIDENTI
-	AL remains a luminary in the noir landscape of the 90s.\nhttps://ticketing
-	.oz.veezi.com/purchase/30330?siteToken&#x3D\;v0auk7pklihk8hj1zv8c47d76o
-DURATION:PT138M
-END:VEVENT
-BEGIN:VEVENT
-UID:rF_s8QNGsGBhQmAd4XX5B
+UID:ecqNsFtu_V0czGfb3rRNw
 SUMMARY:Academy Xmas: Spaghetti Western Ringo Double Bill
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221218T150000Z
 DESCRIPTION:Academy Xmas: Spaghetti Western Ringo Double Bill\n2022 Rated M
 	\nThe original Ringo films introduced another iconic hero to the spaghetti
@@ -120,24 +98,9 @@ DESCRIPTION:Academy Xmas: Spaghetti Western Ringo Double Bill\n2022 Rated M
 DURATION:PT215M
 END:VEVENT
 BEGIN:VEVENT
-UID:C6mlSZ0FsBqx1oM7jpqrz
-SUMMARY:Alliance Francaise Screening: Santa &amp\; Cie
-DTSTAMP:20221215T122300Z
-DTSTART:20221216T180000Z
-DESCRIPTION:Alliance Francaise Screening: Santa &amp\; Cie\n2022 Rated TBC\
-	nChristmas is on its way and with it disaster. The 92\,000 responsible for
-	 manufacturing children’s toys all become sick at the same time! It’s a to
-	ugh moment for Santa\, better known as Father Christmas. He’s left no choi
-	ce: he must make an emergency trip to Earth with his reindeer to search fo
-	r a remedy.<br /><br />* Movie in French with English subtitles\nhttps://t
-	icketing.oz.veezi.com/purchase/30374?siteToken&#x3D\;v0auk7pklihk8hj1zv8c4
-	7d76o
-DURATION:PT92M
-END:VEVENT
-BEGIN:VEVENT
-UID:SEm6lORwDsqugQu2oyPdl
+UID:gbjy3aIVsVd5T1T6H9egz
 SUMMARY:BROS
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221221T124500Z
 DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 	r\, Universal Pictures proudly presents the first romantic comedy from a m
@@ -162,9 +125,9 @@ DESCRIPTION:BROS\n2022 Rated R16\nPlaying $5 Wednesday.<br /><br />This yea
 DURATION:PT115M
 END:VEVENT
 BEGIN:VEVENT
-UID:FVzoSmG0YJH25VPvnHOy8
+UID:IjuNFF5pvKDZFXWZ8KLuS
 SUMMARY:Back to the Future Trilogy Marathon
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230108T163000Z
 DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience 
 	the future all over again with the Back to the Future Trilogy marathon at 
@@ -179,9 +142,9 @@ DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience
 DURATION:PT343M
 END:VEVENT
 BEGIN:VEVENT
-UID:MY5ShMW0nm8uozxnLM0EZ
+UID:JqmY-Vd0gkFKoHXNJegmI
 SUMMARY:Black Adam
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221221T151500Z
 DESCRIPTION:Black Adam\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />From
 	 New Line Cinema\, Dwayne Johnson stars in the action-adventure “Black Ada
@@ -202,9 +165,9 @@ DESCRIPTION:Black Adam\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />From
 DURATION:PT125M
 END:VEVENT
 BEGIN:VEVENT
-UID:-S5Tp_ycsi6WIDGn-iSo8
+UID:dfEImYtdRWaPujW97Nmob
 SUMMARY:Black Panther: Wakanda Forever
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230111T171500Z
 DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 	day.<br /><br />In Marvel Studios’ Black Panther: Wakanda Forever\, Queen 
@@ -222,9 +185,9 @@ DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 DURATION:PT161M
 END:VEVENT
 BEGIN:VEVENT
-UID:CJEykzHmMpX4-U24qZ25H
+UID:KiYw53zZN2O_7x9uCHgQF
 SUMMARY:Bones and All
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221220T203000Z
 DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 	 on sale NOW!<br /><br />The gory new horror romance from the director of 
@@ -243,9 +206,9 @@ DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:NfEL5IBrJrHestNKPqKc_
+UID:q2BB-UYovtW8TYRrcMd6M
 SUMMARY:Bones and All
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221222T165000Z
 DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 	 on sale NOW!<br /><br />The gory new horror romance from the director of 
@@ -264,9 +227,9 @@ DESCRIPTION:Bones and All\n2022 Rated R16\nOpening night session officially
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:YjTdizq8VCjZIBCCQxhO5
+UID:Ie5MJQfoO9u6ksNMeogsL
 SUMMARY:Carry On Camping (1969) / Carry On Cleo (1964)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230129T160000Z
 DESCRIPTION:Carry On Camping (1969) / Carry On Cleo (1964)\n2023 Rated R13\
 	nAs part of our hot\, sexy Wet Hot Academy Summer series running January 1
@@ -290,9 +253,9 @@ DESCRIPTION:Carry On Camping (1969) / Carry On Cleo (1964)\n2023 Rated R13\
 DURATION:PT180M
 END:VEVENT
 BEGIN:VEVENT
-UID:xhrL3I2SZTHk0dFIvwq5U
+UID:0d1f8CBdiGzKLAv29WtUc
 SUMMARY:Early Preview Screening: The Fabelmans
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221222T193000Z
 DESCRIPTION:Early Preview Screening: The Fabelmans\n2022 Rated M\nCatch a s
 	pecial\, early preview screening of the Steven Spielberg's acclaimed new a
@@ -318,9 +281,9 @@ DESCRIPTION:Early Preview Screening: The Fabelmans\n2022 Rated M\nCatch a s
 DURATION:PT151M
 END:VEVENT
 BEGIN:VEVENT
-UID:703Edv9kv2gdG6VjFlDhO
+UID:fULCg5dG2EqSHj2z0ybrM
 SUMMARY:Laneway Festival presents Licorice Pizza
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230114T203000Z
 DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 	e returning to New Zealand to headline Laneway Festival 2023 and we’re cel
@@ -344,9 +307,9 @@ DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 DURATION:PT133M
 END:VEVENT
 BEGIN:VEVENT
-UID:YGXPfRo2hgrOL1SynOE0I
+UID:ReHVjoB0nJH_jxHui2mGY
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230108T120000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -362,9 +325,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:HQGM-mZu2hJoYZ3n0BQbI
+UID:3KPMPri6pyueKC-I68jrz
 SUMMARY:Members Free Mystery Screening
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221220T180000Z
 DESCRIPTION:Members Free Mystery Screening\n2022 Rated M\nA specially selec
 	ted one-off free screening of a mystery classic film for Academy Members -
@@ -376,9 +339,9 @@ DESCRIPTION:Members Free Mystery Screening\n2022 Rated M\nA specially selec
 DURATION:PT120M
 END:VEVENT
 BEGIN:VEVENT
-UID:JbEHMgLYmSY_-UTYlnopy
+UID:fwzIE4uqqgFw-V7WmL-HE
 SUMMARY:Mister Organ
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221218T124500Z
 DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 	ier (Tickled\, Dark Tourist) becomes fascinated by the late-night antics o
@@ -411,9 +374,9 @@ DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:MYSv04IGU2kzzv57J4Gom
+UID:gGYqBhMOjhX6Vskf4D5ZQ
 SUMMARY:Mister Organ
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221219T161500Z
 DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 	ier (Tickled\, Dark Tourist) becomes fascinated by the late-night antics o
@@ -446,9 +409,9 @@ DESCRIPTION:Mister Organ\n2022 Rated M\nJournalist and filmmaker David Farr
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:dtPFV2ONqdB9VpgP8ar3o
+UID:zVJaloK7Z0scCLK2FojRp
 SUMMARY:Piranha (1978) / Humanoids From the Deep (1980)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230113T193000Z
 DESCRIPTION:Piranha (1978) / Humanoids From the Deep (1980)\n2023 Rated R16
 	\nA special Friday the 13th cult horror double bill to open our Wet Hot Ac
@@ -482,9 +445,9 @@ DESCRIPTION:Piranha (1978) / Humanoids From the Deep (1980)\n2023 Rated R16
 DURATION:PT175M
 END:VEVENT
 BEGIN:VEVENT
-UID:G2XbntuuH63X1DU8VTRtm
+UID:2-OxiAX2N2aMcqvhEhwP9
 SUMMARY:She Said
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221221T203000Z
 DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 	me Academy Award® nominee Carey Mulligan (Promising Young Woman\, An Educa
@@ -507,9 +470,9 @@ DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 DURATION:PT129M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZoewkYmFZ3tstKddJJwnh
+UID:JwQGGgAauzaFjcLw20Vrt
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230108T140000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -528,9 +491,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:7PXxdH5aLKSIJ0v7bkmMD
+UID:T8zHQsgi5FWPFF60uPSBK
 SUMMARY:The Big Lebowski (1998)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230111T203000Z
 DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 	s cult classic THE BIG LEBOWSKI is back on $5 Wednesday!<br /><br />Be pre
@@ -546,43 +509,9 @@ DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 DURATION:PT117M
 END:VEVENT
 BEGIN:VEVENT
-UID:jj9RV953rYZWXnsZ_bDJN
+UID:h0EmPJ1ZPN4jsF9YlQ3al
 SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
-DTSTART:20221215T203000Z
-DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
-	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
-	re the chef (Ralph Fiennes) has prepared a lavish menu\, with some shockin
-	g surprises. Directed by Mark Mylod\, The Menu stars Ralph Fiennes\, Anya 
-	Taylor-Joy\, Nicholas Hoult\, Hong Chau\, Janet McTeer\, Reed Birney\, Jud
-	ith Light\, Paul Adelstein\, Aimee Carrero\, Arturo Castro\, Mark St. Cyr\
-	, Rob Yang\, and John Leguizamo. <br /><br />Written by Seth Reiss and Wil
-	l Tracy\, the film is produced by Adam McKay (THE BIG SHORT\, DON'T LOOK U
-	P)\, p.g.a and Betsy Koch\, p.g.a.\nhttps://ticketing.oz.veezi.com/purchas
-	e/30405?siteToken&#x3D\;v0auk7pklihk8hj1zv8c47d76o
-DURATION:PT107M
-END:VEVENT
-BEGIN:VEVENT
-UID:4zjFW6N_Gdva3BvFAx9Tq
-SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
-DTSTART:20221216T153000Z
-DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
-	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
-	re the chef (Ralph Fiennes) has prepared a lavish menu\, with some shockin
-	g surprises. Directed by Mark Mylod\, The Menu stars Ralph Fiennes\, Anya 
-	Taylor-Joy\, Nicholas Hoult\, Hong Chau\, Janet McTeer\, Reed Birney\, Jud
-	ith Light\, Paul Adelstein\, Aimee Carrero\, Arturo Castro\, Mark St. Cyr\
-	, Rob Yang\, and John Leguizamo. <br /><br />Written by Seth Reiss and Wil
-	l Tracy\, the film is produced by Adam McKay (THE BIG SHORT\, DON'T LOOK U
-	P)\, p.g.a and Betsy Koch\, p.g.a.\nhttps://ticketing.oz.veezi.com/purchas
-	e/30408?siteToken&#x3D\;v0auk7pklihk8hj1zv8c47d76o
-DURATION:PT107M
-END:VEVENT
-BEGIN:VEVENT
-UID:NhGnZpbBy9wNkME83n-NA
-SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221217T183000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -597,9 +526,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:WVfgGl-4VYIC63vL2MqSj
+UID:L8qOTtxvqFQLJ1SYUAT_G
 SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221218T192000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -614,9 +543,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:MIS-fIM-pXeCCTxeD-LFi
+UID:73aTyJWrsEYyXRNcwf1zB
 SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221219T204500Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -631,9 +560,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:CVX9rdJ2BjIXe18OuV_s3
+UID:S9D9efu6Rh8tClaYn4q-6
 SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221220T153000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -648,9 +577,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:bnTDBctpX81Pc17mQUWHM
+UID:Q6ydMKVGmDHLS43y4aSvw
 SUMMARY:The Menu
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20221222T143000Z
 DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 	s Hoult) travels to a coastal island to eat at an exclusive restaurant whe
@@ -665,9 +594,9 @@ DESCRIPTION:The Menu\n2022 Rated R16\nA couple (Anya Taylor-Joy and Nichola
 DURATION:PT107M
 END:VEVENT
 BEGIN:VEVENT
-UID:s_UjpOIcST7nt30vZi4e2
+UID:5toH-K7DBAkV-CoF-aTtk
 SUMMARY:WHAS: Body Heat (1981)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230117T181500Z
 DESCRIPTION:WHAS: Body Heat (1981)\n2023 Rated R16\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -689,9 +618,9 @@ DESCRIPTION:WHAS: Body Heat (1981)\n2023 Rated R16\nPlaying as part of Acad
 DURATION:PT113M
 END:VEVENT
 BEGIN:VEVENT
-UID:W--EYKPGezmRyPFcSWMtU
+UID:uR5ON7iwPAu5UbNStfldP
 SUMMARY:WHAS: Call Me by Your Name (2017)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230203T203000Z
 DESCRIPTION:WHAS: Call Me by Your Name (2017)\n2023 Rated R13\nPlaying as p
 	art of Academy's Wet Hot Academy Summer programme of sexy Summer classics 
@@ -711,9 +640,9 @@ DESCRIPTION:WHAS: Call Me by Your Name (2017)\n2023 Rated R13\nPlaying as p
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:zqN_1j5krbgQJLBvkqpaR
+UID:38KYR_pEk4b0CoYDyl7lX
 SUMMARY:WHAS: Cape Fear (1962)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230123T181500Z
 DESCRIPTION:WHAS: Cape Fear (1962)\n2023 Rated M\nPlaying as part of Academ
 	y's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Feb 
@@ -731,9 +660,9 @@ DESCRIPTION:WHAS: Cape Fear (1962)\n2023 Rated M\nPlaying as part of Academ
 DURATION:PT106M
 END:VEVENT
 BEGIN:VEVENT
-UID:1qlwrrUYzwhe-jRiO3LLU
+UID:Ii5Ew1yz-EPOdnLBl4XpI
 SUMMARY:WHAS: Day Of the Dolphin (1973)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230124T181500Z
 DESCRIPTION:WHAS: Day Of the Dolphin (1973)\n2023 Rated G\nPlaying as part 
 	of Academy's Wet Hot Academy Summer programme of sexy Summer classics Jan 
@@ -748,9 +677,9 @@ DESCRIPTION:WHAS: Day Of the Dolphin (1973)\n2023 Rated G\nPlaying as part
 DURATION:PT104M
 END:VEVENT
 BEGIN:VEVENT
-UID:XidrgMev2Z9FW1e8S5ZW8
+UID:yYcMDLGiJh77YyIikFB8t
 SUMMARY:WHAS: Jaws (1975)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230118T203000Z
 DESCRIPTION:WHAS: Jaws (1975)\n2023 Rated M\nPlaying as part of Academy's W
 	et Hot Academy Summer programme of sexy Summer classics Jan 13 - Feb 05 20
@@ -766,9 +695,9 @@ DESCRIPTION:WHAS: Jaws (1975)\n2023 Rated M\nPlaying as part of Academy's W
 DURATION:PT124M
 END:VEVENT
 BEGIN:VEVENT
-UID:abbKlQFV59AtvmpszkivV
+UID:XI-24OEurcEVqOoe0zdZT
 SUMMARY:WHAS: Point Break (1991)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230201T203000Z
 DESCRIPTION:WHAS: Point Break (1991)\n2023 Rated M\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -788,9 +717,9 @@ DESCRIPTION:WHAS: Point Break (1991)\n2023 Rated M\nPlaying as part of Acad
 DURATION:PT122M
 END:VEVENT
 BEGIN:VEVENT
-UID:DJD5dHRhuhjyVSJKIJaHF
+UID:XLvRTnr_1Fs6rq8uJoaqb
 SUMMARY:WHAS: Summertime (1955)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230116T181500Z
 DESCRIPTION:WHAS: Summertime (1955)\n2023 Rated PG\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -809,9 +738,9 @@ DESCRIPTION:WHAS: Summertime (1955)\n2023 Rated PG\nPlaying as part of Acad
 DURATION:PT100M
 END:VEVENT
 BEGIN:VEVENT
-UID:bOj6qRe-ugvx8BDf8L1k4
+UID:1jfOxWXTsflF54aROmMCo
 SUMMARY:WHAS: Swept Away (1974)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230115T180000Z
 DESCRIPTION:WHAS: Swept Away (1974)\n2023 Rated R18\nPlaying as part of Aca
 	demy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - F
@@ -831,9 +760,9 @@ DESCRIPTION:WHAS: Swept Away (1974)\n2023 Rated R18\nPlaying as part of Aca
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:kDssUVoQxVZd7hVjj18tN
+UID:z0ylaAilwEfPX0r_pp0Ay
 SUMMARY:WHAS: The Beach (1999)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230125T203000Z
 DESCRIPTION:WHAS: The Beach (1999)\n2023 Rated R16\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -854,9 +783,9 @@ DESCRIPTION:WHAS: The Beach (1999)\n2023 Rated R16\nPlaying as part of Acad
 DURATION:PT119M
 END:VEVENT
 BEGIN:VEVENT
-UID:mGwTwGTzvKaHGmcb9t5WL
+UID:hW0gwdAEzMga-d0W8GedH
 SUMMARY:WHAS: The Last Of Sheila (1973)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230205T180000Z
 DESCRIPTION:WHAS: The Last Of Sheila (1973)\n2023 Rated PG\nPlaying as part
 	 of Academy's Wet Hot Academy Summer programme of sexy Summer classics Jan
@@ -876,9 +805,9 @@ DESCRIPTION:WHAS: The Last Of Sheila (1973)\n2023 Rated PG\nPlaying as part
 DURATION:PT120M
 END:VEVENT
 BEGIN:VEVENT
-UID:DMh-Si89j_zNvnmE-T0rj
+UID:a082GkXDoJnvnYXR-5JNY
 SUMMARY:WHAS: The Night Of the Iguana (1964)
-DTSTAMP:20221215T122300Z
+DTSTAMP:20221216T122000Z
 DTSTART:20230130T181500Z
 DESCRIPTION:WHAS: The Night Of the Iguana (1964)\n2023 Rated PG\nPlaying as
 	 part of Academy's Wet Hot Academy Summer programme of sexy Summer classic
