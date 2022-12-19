@@ -26,32 +26,6 @@
     ]
   },
   {
-    "url": "academy-xmas-it-happened-on-fifth-avenue-1947",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668421563039_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668421563355_Poster.jpg",
-    "title": "Academy Xmas: It Happened On Fifth Avenue (1947)",
-    "releaseDate": "2022-12-19T00:00:00.000Z",
-    "endpoint": "ST00004745",
-    "duration": "116 mins",
-    "rating": "Rated G",
-    "director": "Roy Del Ruth",
-    "actors": "Don DeFore,Ann Harding,Charles Ruggles,Victor Moore,Gale Storm",
-    "synopsis": "Playing as part of Academy's Christmas programme this December! <br /><br />No one is inside that boarded-up mansion on Manhattan's ritzy 5th Avenue, right? Wrong. Its secret inhabitants include a philosophizing hobo and some GI families who are unable to find apartments during the post-World War II housing crunch. They set up residence in the posh brownstone while the owner, the second richest man in the world, winters in Virginia. Except the owner isn't in Virginia. He's there in disguise and discovering a lot about how the average Joe and Jane think and live. <br /><br />It Happened on 5th Avenue. And it happens with a talented cast and an Oscar-nominated tale set during the holidays. Make yourself at home and discover why this is a yuletide delight to discover!",
-    "sessionList": [
-      {
-        "date": "2022-12-19",
-        "times": [
-          {
-            "time": "6:15pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30340?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "url": "bros",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132469575_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132469963_Poster.jpeg",
@@ -148,6 +122,17 @@
           {
             "time": "5:15pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30395?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-18",
+        "times": [
+          {
+            "time": "2:40pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30451?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -389,32 +374,6 @@
     ]
   },
   {
-    "url": "mister-organ",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1664517190905_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1664517191418_Poster.png",
-    "title": "Mister Organ",
-    "releaseDate": "2022-11-10T00:00:00.000Z",
-    "endpoint": "ST00004637",
-    "duration": "95 mins",
-    "rating": "Rated M",
-    "director": "David Farrier",
-    "actors": "",
-    "synopsis": "Journalist and filmmaker David Farrier (Tickled, Dark Tourist) becomes fascinated by the late-night antics of a rogue wheel clamper in New Zealand. When Jillian Bashford, the owner of the shop this wheel clamper patrols, denies knowing him, Farrier becomes even more intrigued by the mysterious figure. The clamper is Michael Organ, and once he has a name, Farrier starts to learn more about Organ, finding he's actually a convicted thief who once claimed to be royalty. At this point, Farrier finds Organ has set his sights on him, too — with him and the antique store owner, Bashford, filing legal papers against him. As Farrier attempts to decipher what is going on with Organ and Bashford, he meets other victims who Michael moved in on in the past. Farrier then attends court with Organ and loses. Afterward, he sits down with this strange figure to talk about what the hell is going on, surprised when Bashford turns up too, seemingly happy and jovial. At this point, Organ pushes further into filmmaker Farrier's life, revealing that he has a key to Farrier's house. Instead of pulling away, Farrier becomes more curious, spending more and more time with Organ. Organ tells Farrier that other mystery men are responsible for all the problems he encountered — like stealing a yacht — and all the problems Farrier's encountered too: like having his key stolen. Organ insists he is the good guy, a friend, not foe. As Farrier continues to meet more of Michael's victims, realising that not only is Organ a master manipulator, but he also inserts himself psychologically into people's minds; and that he is inserting himself into Farriers. MISTER ORGAN is a thrilling and tension filled three-year long investigation — unearthing a trail of multiple court cases, inflated claims of royal bloodlines, ruined lives, and at least one stolen boat.",
-    "sessionList": [
-      {
-        "date": "2022-12-19",
-        "times": [
-          {
-            "time": "4:15pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30411?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "url": "piranha-1978--humanoids-from-the-deep-1980",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671065701964_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671065702364_Poster.jpg",
@@ -433,6 +392,43 @@
           {
             "time": "7:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30393?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "seriously-red",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432198207_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432198615_Poster.jpg",
+    "title": "Seriously Red",
+    "releaseDate": "2023-01-11T00:00:00.000Z",
+    "endpoint": "ST00004793",
+    "duration": "98 mins",
+    "rating": "Rated M",
+    "director": "Gracie Otto",
+    "actors": "Bobby Cannavale,Wayne Blair,Daniel  Webber,Krew Boylan,Thomas Campbell,Todd Lasance,Celeste Barber,Jean Kittson,Rose Byrne",
+    "synopsis": "Playing $5 Wednesday.<br /><br />In this rowdy and rambunctious musical dramedy, Red (Krew Boylan) is a vivacious, clumsy and occasionally misguided redhead who is at a crossroads in her life. After misreading her work party’s dress code, Red trades her 9-to-5 job in real estate for a new career as a Dolly Parton impersonator.",
+    "sessionList": [
+      {
+        "date": "2023-01-11",
+        "times": [
+          {
+            "time": "3:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30427?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-18",
+        "times": [
+          {
+            "time": "12:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30450?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -470,6 +466,32 @@
           {
             "time": "12:00pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30428?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "strange-world",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432200537_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432201047_Poster.jpg",
+    "title": "Strange World",
+    "releaseDate": "2023-01-18T00:00:00.000Z",
+    "endpoint": "ST00004795",
+    "duration": "102 mins",
+    "rating": "Rated PG",
+    "director": "Don Hall",
+    "actors": "Alan Tudyk,Gabrielle Union,Jaboukie Young-White,Dennis Quaid,Jake Gyllenhaal,Lucy Liu",
+    "synopsis": "Playing $5 Wednesday.<br /><br />Walt Disney Animation Studios’ original action-adventure Strange World journeys deep into an uncharted and treacherous land where fantastical creatures await the legendary Clades, a family of explorers whose differences threaten to topple their latest—and by far— most crucial mission. Helmed by Don Hall (Oscar®-winning “Big Hero 6,” “Raya and the Last Dragon”) and co-director/writer Qui Nguyen (co-writer “Raya and the Last Dragon”), and produced by Roy Conli (Oscar®-winning “Big Hero 6,” “Tangled”).",
+    "sessionList": [
+      {
+        "date": "2023-01-18",
+        "times": [
+          {
+            "time": "6:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30452?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -707,17 +729,6 @@
     "actors": "Nicholas Hoult,Janet McTeer,Anya  Taylor-Joy,John  Leguizamo,Hong Chau,Reed Birney,Arturo Castro,Judith Light,Paul Adelstein,Aimee Carrero,Mark St. Cyr,Rob Yang,Ralph Fiennes",
     "synopsis": "A couple (Anya Taylor-Joy and Nicholas Hoult) travels to a coastal island to eat at an exclusive restaurant where the chef (Ralph Fiennes) has prepared a lavish menu, with some shocking surprises. Directed by Mark Mylod, The Menu stars Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult, Hong Chau, Janet McTeer, Reed Birney, Judith Light, Paul Adelstein, Aimee Carrero, Arturo Castro, Mark St. Cyr, Rob Yang, and John Leguizamo. <br /><br />Written by Seth Reiss and Will Tracy, the film is produced by Adam McKay (THE BIG SHORT, DON'T LOOK UP), p.g.a and Betsy Koch, p.g.a.",
     "sessionList": [
-      {
-        "date": "2022-12-18",
-        "times": [
-          {
-            "time": "7:20pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30406?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2022-12-19",
         "times": [
