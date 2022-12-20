@@ -154,17 +154,6 @@
     "synopsis": "Opening night session officially on sale NOW!<br /><br />The gory new horror romance from the director of CALL ME BY YOUR NAME, SUSPIRIA & I AM LOVE Luca Guadagnino, reuniting with his CALL ME BY YOUR NAME star Timothée Chalamet!<br /><br />WINNER of the Silver Lion for Best Director, and the Marcello Mastroianni Award for Best Young Actress (Taylor Russell) at the 2022 Venice Film Festival.<br /><br />The film is a story of first love between Maren, a young woman learning how to survive on the margins of society, and Lee, an intense and disenfranchised drifter, as they meet and join together for a thousand-mile odyssey that takes them through the back roads, hidden passages, and trap doors of Ronald Reagan’s America. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
     "sessionList": [
       {
-        "date": "2022-12-20",
-        "times": [
-          {
-            "time": "8:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30410?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
-      {
         "date": "2022-12-22",
         "times": [
           {
@@ -340,32 +329,6 @@
           {
             "time": "8:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30447?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "members-free-mystery-screening",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1608859328212_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1653448853187_Poster.jpg",
-    "title": "Members Free Mystery Screening",
-    "releaseDate": "2022-12-20T00:00:00.000Z",
-    "endpoint": "ST00003525",
-    "duration": "120 mins",
-    "rating": "Rated M",
-    "director": "",
-    "actors": "",
-    "synopsis": "A specially selected one-off free screening of a mystery classic film for Academy Members - book your seat online or at the counter now, these get popular!<br /><br />HINT #1: A film in the crime/action genre!<br />HINT #2: Starring a famous British actor in the leading role!<br />HINT #3: A 70s film!<br /><br />Runtime under two hours.",
-    "sessionList": [
-      {
-        "date": "2022-12-20",
-        "times": [
-          {
-            "time": "6:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30356?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -729,28 +692,6 @@
     "actors": "Nicholas Hoult,Janet McTeer,Anya  Taylor-Joy,John  Leguizamo,Hong Chau,Reed Birney,Arturo Castro,Judith Light,Paul Adelstein,Aimee Carrero,Mark St. Cyr,Rob Yang,Ralph Fiennes",
     "synopsis": "A couple (Anya Taylor-Joy and Nicholas Hoult) travels to a coastal island to eat at an exclusive restaurant where the chef (Ralph Fiennes) has prepared a lavish menu, with some shocking surprises. Directed by Mark Mylod, The Menu stars Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult, Hong Chau, Janet McTeer, Reed Birney, Judith Light, Paul Adelstein, Aimee Carrero, Arturo Castro, Mark St. Cyr, Rob Yang, and John Leguizamo. <br /><br />Written by Seth Reiss and Will Tracy, the film is produced by Adam McKay (THE BIG SHORT, DON'T LOOK UP), p.g.a and Betsy Koch, p.g.a.",
     "sessionList": [
-      {
-        "date": "2022-12-19",
-        "times": [
-          {
-            "time": "8:45pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30409?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
-      {
-        "date": "2022-12-20",
-        "times": [
-          {
-            "time": "3:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30412?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2022-12-22",
         "times": [
