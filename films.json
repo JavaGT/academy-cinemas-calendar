@@ -1,57 +1,5 @@
 [
   {
-    "url": "in-bruges-2008",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1633319343577_Poster.png",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1633319344642_Poster.png",
-    "title": "Academy Xmas: In Bruges (2008)",
-    "releaseDate": "2022-12-21T00:00:00.000Z",
-    "endpoint": "ST00004063",
-    "duration": "107 mins",
-    "rating": "Rated R16",
-    "director": "Martin  McDonagh",
-    "actors": "Jérémie Renier,Clémence  Poésy,Ciarán Hinds,Ralph Fiennes,Colin Farrell,Brendan Gleeson",
-    "synopsis": "Playing as part of Academy's Christmas programme this December! Tickets only $5 - get in quick.<br /><br />Colin Farrell, Brendan Gleeson, Jérémie Renier and Academy Award® nominee Ralph Fiennes star in this cult classic black comedy filled with thrilling chases, spectacular shoot-outs and an explosive ending you won’t want to miss! From the director of THREE BILLBOARDS OUTSIDE EBBING, MISSOURI and THE BANSHEES OF INISHERIN.<br /><br />'Following a job that’s gone very badly wrong, two hitmen Ray and Ken are sent to Bruges by their boss Harry and told to lie low and await instructions. Ken falls in love with the cobbled streets and canals of the picturesque city but for Ray it’s torturous boredom and he upsets both locals and tourists. When the call finally comes from Harry it may not be the ticket out he was hoping for.'",
-    "sessionList": [
-      {
-        "date": "2022-12-21",
-        "times": [
-          {
-            "time": "6:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30338?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "bros",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132469575_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132469963_Poster.jpeg",
-    "title": "BROS",
-    "releaseDate": "2022-12-14T00:00:00.000Z",
-    "endpoint": "ST00004729",
-    "duration": "115 mins",
-    "rating": "Rated R16",
-    "director": "Nicholas Stoller",
-    "actors": "Jim Rash,Billy Eichner,Monica Raymund,Luke Macfarlane,Harvey Fierstein",
-    "synopsis": "Playing $5 Wednesday.<br /><br />This year, Universal Pictures proudly presents the first romantic comedy from a major studio about two gay men maybe, possibly, probably, stumbling towards love. Maybe. They're both very busy. <br /><br />From the ferocious comic mind of Billy Eichner (Billy on the Street, 2019's The Lion King, Difficult People, Impeachment: American Crime Story) and the hitmaking brilliance of filmmakers Nicholas Stoller (the Neighbors films, Forgetting Sarah Marshall) and Judd Apatow (The King of Staten Island, Trainwreck, The Big Sick), comes Bros, a smart, swoony and heartfelt comedy about how hard it is to find another tolerable human being to go through life with.  <br /><br />Starring Billy Eichner, the first openly gay man to co-write and star in his own major studio film—and featuring an entirely LGBTQ+ principal cast, including Luke Macfarlane (Killjoys), Ts Madison (The Ts Madison Experience), Monica Raymund (Chicago Fire), Guillermo Díaz (Scandal), Guy Branum (The Other Two) and Amanda Bearse (Married …with Children)—Bros is directed by Nicholas Stoller from his screenplay with Eichner. The film is produced by Judd Apatow, Stoller and Joshua Church (co-producer Trainwreck, Step Brothers) and is executive produced by Eichner.",
-    "sessionList": [
-      {
-        "date": "2022-12-21",
-        "times": [
-          {
-            "time": "12:45pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30414?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "url": "back-to-the-future-trilogy-marathon",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1669951816605_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1582474751228_Poster.jpg",
@@ -70,32 +18,6 @@
           {
             "time": "4:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30371?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "black-adam",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132472056_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132472467_Poster.jpg",
-    "title": "Black Adam",
-    "releaseDate": "2022-12-07T00:00:00.000Z",
-    "endpoint": "ST00004731",
-    "duration": "125 mins",
-    "rating": "Rated M",
-    "director": "Marwan  Kenzari,Jaume Collet-Serra,Quintessa Swindell",
-    "actors": "Aldis Hodge,Dwayne Johnson,Sarah Shahi,Noah Centineo,Bodhi Sabongui,Pierce Brosnan",
-    "synopsis": "Playing $5 Wednesday.<br /><br />From New Line Cinema, Dwayne Johnson stars in the action-adventure “Black Adam.”  The first-ever feature film to explore the story of the DC Super Hero comes to the big screen under the direction of Jaume Collet-Serra (“Jungle Cruise”).<br /><br />Nearly 5,000 years after he was bestowed with the almighty powers of the ancient gods—and imprisoned just as quickly—Black Adam (Johnson) is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.<br /><br />Johnson stars alongside Aldis Hodge (“City on a Hill,” “One Night in Miami”) as Hawkman, Noah Centineo (“To All the Boys I’ve Loved Before”) as Atom Smasher, Sarah Shahi (“Sex/Life,” “Rush Hour 3”) as Adrianna, Marwan Kenzari (“Murder on the Orient Express,” “The Mummy”) as Ishmael, Quintessa Swindell (“Voyagers,” “Trinkets”) as Cyclone, Bodhi Sabongui (“A Million Little Things”) as Amon, and Pierce Brosnan (the “Mamma Mia!” and James Bond franchises) as Dr. Fate.",
-    "sessionList": [
-      {
-        "date": "2022-12-21",
-        "times": [
-          {
-            "time": "3:15pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30413?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
