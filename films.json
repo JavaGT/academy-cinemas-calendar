@@ -63,32 +63,6 @@
     ]
   },
   {
-    "url": "bones-and-all",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1666842164532_Poster.png",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1665553892466_Poster.jpg",
-    "title": "Bones and All",
-    "releaseDate": "2022-11-24T00:00:00.000Z",
-    "endpoint": "ST00004635",
-    "duration": "131 mins",
-    "rating": "Rated R16",
-    "director": "Luca  Guadagnino",
-    "actors": "Michael Stuhlbarg,André  Holland,Mark Rylance,Timothée  Chalamet,Chloë  Sevigny,Taylor Russell,David Gordon  Green,Jessica Harper,Francesca Scorsese",
-    "synopsis": "Opening night session officially on sale NOW!<br /><br />The gory new horror romance from the director of CALL ME BY YOUR NAME, SUSPIRIA & I AM LOVE Luca Guadagnino, reuniting with his CALL ME BY YOUR NAME star Timothée Chalamet!<br /><br />WINNER of the Silver Lion for Best Director, and the Marcello Mastroianni Award for Best Young Actress (Taylor Russell) at the 2022 Venice Film Festival.<br /><br />The film is a story of first love between Maren, a young woman learning how to survive on the margins of society, and Lee, an intense and disenfranchised drifter, as they meet and join together for a thousand-mile odyssey that takes them through the back roads, hidden passages, and trap doors of Ronald Reagan’s America. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-    "sessionList": [
-      {
-        "date": "2022-12-22",
-        "times": [
-          {
-            "time": "4:50pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30422?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "url": "carry-on-camping-1969--carry-on-cleo-1964",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671065729777_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671065730176_Poster.jpg",
@@ -141,6 +115,32 @@
     ]
   },
   {
+    "url": "film-industry-selects-came-a-hot-friday-1985",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671683112643_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671683112976_Poster.jpg",
+    "title": "Film Industry Selects: Came A Hot Friday (1985)",
+    "releaseDate": "2023-01-31T00:00:00.000Z",
+    "endpoint": "ST00004797",
+    "duration": "101 mins",
+    "rating": "Rated PG",
+    "director": "Ian Mune",
+    "actors": "Billy T. James,Peter Bland,Phillip Gordon,Michael Lawrence",
+    "synopsis": "Each months we have a film picked by a special film industry guest. This month it is NZ crime comedy classic from director Ian Mune CAME A HOT FRIDAY (1985), specially chosen by Showtools very own Brian Kassler.<br /><br />Tickets only $10!<br />Happy Hour drinks from 7pm.<br />Screening 8:15pm.<br /><br />The funniest, liveliest, most exuberant film ever made in New Zealand”. So said critic Nicholas Reid, a year after CAME A HOT FRIDAY became 1985's biggest local hit. Though Billy T’s loony Mexican-Māori cowboy is beloved by fans, he is but one eccentric here among many — as two scheming conmen hit town, and encounter bookies, boozers, country hicks, nasty crim Marshall Napier, and Prince Tui Teka playing saxophone. Until the arrival of THE PIANO in 1993, Ian Mune and Dean Parker’s award-loaded adaptation remained NZ's third biggest local hit.<br /><br />Film courtesy of Aotearoa New Zealand Film Heritage Trust and Te Tumu Whakaata Taonga New Zealand Film Commission.",
+    "sessionList": [
+      {
+        "date": "2023-01-31",
+        "times": [
+          {
+            "time": "8:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30453?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "url": "ST00004139-licorice-pizza",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1670823751352_Poster.png",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1638753579973_Poster.jpg",
@@ -168,8 +168,8 @@
   },
   {
     "url": "marcel-the-shell-with-shoes-on",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1669035699236_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1669035699690_Poster.jpg",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671640353703_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671675238394_Poster.jpg",
     "title": "Marcel the Shell With Shoes On",
     "releaseDate": "2023-01-08T00:00:00.000Z",
     "endpoint": "ST00004751",
@@ -334,17 +334,6 @@
     "actors": "Carey Mulligan,Zoe Kazan,Jennifer Ehle,Samantha Morton,Tom Pelphrey,Andre Braugher,Patricia Clarkson",
     "synopsis": "Playing $5 Wednesday.<br /><br />Two-time Academy Award® nominee Carey Mulligan (Promising Young Woman, An Education) and Zoe Kazan (The Plot Against America limited series, The Big Sick) star as New York Times reporters Megan Twohey and Jodi Kantor, who together broke one of the most important stories in a generation— a story that helped propel the #Metoo movement, shattered decades of silence around the subject of sexual assault in Hollywood and altered American culture forever. <br /><br />From the Academy Award® winning producers of 12 Years a Slave, Moonlight, Minari, Selma and The Big Short and the Oscar®-nominated producer of Zero Dark Thirty and American Hustle, the film is based on the New York Times bestseller, She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement. <br /><br />She Said is directed by Emmy winner Maria Schrader (Unorthodox limited series) from a screenplay by Oscar® winner Rebecca Lenkiewicz (Ida). <br /><br />The film is produced by Academy Award® winners Brad Pitt, Dede Gardner and Jeremy Kleiner for Plan B Entertainment and is executive produced by Oscar® nominee Megan Ellison and Sue Naegle for Annapurna Pictures.",
     "sessionList": [
-      {
-        "date": "2022-12-21",
-        "times": [
-          {
-            "time": "8:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30353?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2023-01-11",
         "times": [
@@ -594,32 +583,6 @@
           {
             "time": "12:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30449?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "the-menu",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1665972450021_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1665972450420_Poster.png",
-    "title": "The Menu",
-    "releaseDate": "2022-11-24T00:00:00.000Z",
-    "endpoint": "ST00004673",
-    "duration": "107 mins",
-    "rating": "Rated R16",
-    "director": "Mark Mylod",
-    "actors": "Nicholas Hoult,Janet McTeer,Anya  Taylor-Joy,John  Leguizamo,Hong Chau,Reed Birney,Arturo Castro,Judith Light,Paul Adelstein,Aimee Carrero,Mark St. Cyr,Rob Yang,Ralph Fiennes",
-    "synopsis": "A couple (Anya Taylor-Joy and Nicholas Hoult) travels to a coastal island to eat at an exclusive restaurant where the chef (Ralph Fiennes) has prepared a lavish menu, with some shocking surprises. Directed by Mark Mylod, The Menu stars Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult, Hong Chau, Janet McTeer, Reed Birney, Judith Light, Paul Adelstein, Aimee Carrero, Arturo Castro, Mark St. Cyr, Rob Yang, and John Leguizamo. <br /><br />Written by Seth Reiss and Will Tracy, the film is produced by Adam McKay (THE BIG SHORT, DON'T LOOK UP), p.g.a and Betsy Koch, p.g.a.",
-    "sessionList": [
-      {
-        "date": "2022-12-22",
-        "times": [
-          {
-            "time": "2:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30421?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
