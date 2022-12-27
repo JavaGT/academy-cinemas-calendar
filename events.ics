@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HEaBM9Eu7v4i1smE8ESqb
+UID:EMfCg5t6l25avg05LWLmi
 SUMMARY:Back to the Future Trilogy Marathon
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230108T163000Z
 DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience 
 	the future all over again with the Back to the Future Trilogy marathon at 
@@ -22,9 +22,9 @@ DESCRIPTION:Back to the Future Trilogy Marathon\n2023 Rated PG\nExperience
 DURATION:PT343M
 END:VEVENT
 BEGIN:VEVENT
-UID:D6b5TC3-AdZQr9KtHExVT
+UID:JNQcF8uMLoN4iOmbzuOcY
 SUMMARY:Black Panther: Wakanda Forever
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230111T171500Z
 DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 	day.<br /><br />In Marvel Studios’ Black Panther: Wakanda Forever\, Queen 
@@ -42,9 +42,9 @@ DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 DURATION:PT161M
 END:VEVENT
 BEGIN:VEVENT
-UID:zRlZM7o7V54KJyE0-PHBN
+UID:CT2f6YTET_NHiI3r6mCJK
 SUMMARY:Black Panther: Wakanda Forever
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230118T144000Z
 DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 	day.<br /><br />In Marvel Studios’ Black Panther: Wakanda Forever\, Queen 
@@ -62,9 +62,9 @@ DESCRIPTION:Black Panther: Wakanda Forever\n2023 Rated M\nPlaying $5 Wednes
 DURATION:PT161M
 END:VEVENT
 BEGIN:VEVENT
-UID:0xNvgQyPtGPm0XrRDSiGw
+UID:Rxq7d3Re9YdM4cmrSVI-9
 SUMMARY:Carry On Camping (1969) / Carry On Cleo (1964)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230129T160000Z
 DESCRIPTION:Carry On Camping (1969) / Carry On Cleo (1964)\n2023 Rated R13\
 	nAs part of our hot\, sexy Wet Hot Academy Summer series running January 1
@@ -88,9 +88,9 @@ DESCRIPTION:Carry On Camping (1969) / Carry On Cleo (1964)\n2023 Rated R13\
 DURATION:PT180M
 END:VEVENT
 BEGIN:VEVENT
-UID:sFOUd5vvDoiaByUMmGXG2
+UID:24mY_DyLSoJQSs6HLKqK8
 SUMMARY:Film Industry Selects: Came A Hot Friday (1985)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230131T201500Z
 DESCRIPTION:Film Industry Selects: Came A Hot Friday (1985)\n2023 Rated PG\
 	nEach months we have a film picked by a special film industry guest. This 
@@ -111,9 +111,9 @@ DESCRIPTION:Film Industry Selects: Came A Hot Friday (1985)\n2023 Rated PG\
 DURATION:PT101M
 END:VEVENT
 BEGIN:VEVENT
-UID:ohs_aYuC2FHjH92U-p7TW
+UID:NVFI2auAWYGopqoKEAy9X
 SUMMARY:Laneway Festival presents Licorice Pizza
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230114T203000Z
 DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 	e returning to New Zealand to headline Laneway Festival 2023 and we’re cel
@@ -137,9 +137,9 @@ DESCRIPTION:Laneway Festival presents Licorice Pizza\n2023 Rated M\nHaim ar
 DURATION:PT133M
 END:VEVENT
 BEGIN:VEVENT
-UID:qsqFS7WGedhTsUG8Jyfzu
+UID:ILj_I9MA9NlqxUSVdQEZD
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230108T120000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -155,9 +155,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:lozEcrfbdFJ2cHp37jpiY
+UID:oJVE7Xh4H5B0sl_Yg6ujN
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230109T160000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -173,9 +173,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:shkqvl4pF_T-zEEWkQSR1
+UID:zBnHgpvgPeBA-KD7cEAJ9
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230110T153000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -191,9 +191,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:O51Li1xFuvKLo9LjwpnPO
+UID:Go1wxFP25Gv--fkIvY3Jc
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230112T180000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -209,9 +209,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:0fWfg_kEvqr1fXPw77fi_
+UID:-a4B53BrRZyO6rAs5VyEx
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230113T120000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -227,9 +227,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:ST3Pb-x1Xe3pymMfIoImY
+UID:6W135ik_0-fjmCI9TDuNu
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230114T160000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -245,9 +245,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:-YP7YtV9q13vN2Qi1kuLN
+UID:98NEvwnWXaEKuXvebegVS
 SUMMARY:Marcel the Shell With Shoes On
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230115T203000Z
 DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 	rable one-inch-tall shell who ekes out a colorful existence with his grand
@@ -263,9 +263,9 @@ DESCRIPTION:Marcel the Shell With Shoes On\n2023 Rated PG\nMarcel is an ado
 DURATION:PT91M
 END:VEVENT
 BEGIN:VEVENT
-UID:OHLwg6EmikX3z3-QuCLBq
+UID:rEQZ_IoMWCPNUFq7Qe_Xj
 SUMMARY:Piranha (1978) / Humanoids From the Deep (1980)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230113T193000Z
 DESCRIPTION:Piranha (1978) / Humanoids From the Deep (1980)\n2023 Rated R16
 	\nA special Friday the 13th cult horror double bill to open our Wet Hot Ac
@@ -299,9 +299,9 @@ DESCRIPTION:Piranha (1978) / Humanoids From the Deep (1980)\n2023 Rated R16
 DURATION:PT175M
 END:VEVENT
 BEGIN:VEVENT
-UID:etkmjFm7Rr4WIcFAHzKiW
+UID:xnxgQ9nR_WfZxq0rdGbFV
 SUMMARY:Seriously Red
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230111T150000Z
 DESCRIPTION:Seriously Red\n2023 Rated M\nPlaying $5 Wednesday.<br /><br />I
 	n this rowdy and rambunctious musical dramedy\, Red (Krew Boylan) is a viv
@@ -313,9 +313,9 @@ DESCRIPTION:Seriously Red\n2023 Rated M\nPlaying $5 Wednesday.<br /><br />I
 DURATION:PT98M
 END:VEVENT
 BEGIN:VEVENT
-UID:hfvSU31fUAzCQPCdHJkZ_
+UID:3Gjj8jpT-aCzPPwGbZlIN
 SUMMARY:Seriously Red
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230118T121500Z
 DESCRIPTION:Seriously Red\n2023 Rated M\nPlaying $5 Wednesday.<br /><br />I
 	n this rowdy and rambunctious musical dramedy\, Red (Krew Boylan) is a viv
@@ -327,9 +327,9 @@ DESCRIPTION:Seriously Red\n2023 Rated M\nPlaying $5 Wednesday.<br /><br />I
 DURATION:PT98M
 END:VEVENT
 BEGIN:VEVENT
-UID:Tbnu99dMXXs_PEhmOksz7
+UID:4XafEho6yYtfq1ongBUpm
 SUMMARY:She Said
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230111T120000Z
 DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 	me Academy Award® nominee Carey Mulligan (Promising Young Woman\, An Educa
@@ -352,9 +352,9 @@ DESCRIPTION:She Said\n2022 Rated M\nPlaying $5 Wednesday.<br /><br />Two-ti
 DURATION:PT129M
 END:VEVENT
 BEGIN:VEVENT
-UID:vD3ZUCtxnhsV0x4vESoXb
+UID:bK5FqrQL6su1YDk5XSTPh
 SUMMARY:Strange World
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230118T180000Z
 DESCRIPTION:Strange World\n2023 Rated PG\nPlaying $5 Wednesday.<br /><br />
 	Walt Disney Animation Studios’ original action-adventure Strange World jou
@@ -369,9 +369,9 @@ DESCRIPTION:Strange World\n2023 Rated PG\nPlaying $5 Wednesday.<br /><br />
 DURATION:PT102M
 END:VEVENT
 BEGIN:VEVENT
-UID:W4OlDXfa-w98o1LHlBHgG
+UID:xJ3SeeeXdVWBR3lsSM9fV
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230108T140000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -390,9 +390,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:p8ODvcCUX1-KKxy2LTRcx
+UID:bZ8ZqeNEkrMcx5bNbTdGN
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230109T180000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -411,9 +411,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:EIKixazE5iLoe8N2iXb-j
+UID:WQyMB0dT-auwgkZbY0Y-T
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230110T130000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -432,9 +432,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:4vMpxrM7oN_AtjouYCNV9
+UID:EOd30cUP4p01qnyd6s3ss
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230110T203000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -453,9 +453,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:fdEo7dPSd7s7w9oBOkb78
+UID:_1WZiwuwJKorazgIEucFt
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230112T153000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -474,9 +474,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:OPi2fgBWDgTfu9b7lYEmY
+UID:6IW6zPr4QiYRMhVl2Fe9j
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230113T170000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -495,9 +495,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:a4TfSL06PAnYQZWTy1lCQ
+UID:kbH7UGhO_DM-rDN-KnbOG
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230114T180000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -516,9 +516,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:hVCXWXxzfx1fC7YBTiLEv
+UID:gYMD6sAc0-J67wKOeaTtl
 SUMMARY:The Banshees of Inisherin
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230115T153000Z
 DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 	 off the west coast of Ireland\, The Banshees of Inisherin follows lifelon
@@ -537,9 +537,9 @@ DESCRIPTION:The Banshees of Inisherin\n2023 Rated M\nSet on a remote island
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:QjboOH74pInZozVMOKIRL
+UID:pZ5W4ethQnICUcxALAX62
 SUMMARY:The Big Lebowski (1998)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230111T203000Z
 DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 	s cult classic THE BIG LEBOWSKI is back on $5 Wednesday!<br /><br />Be pre
@@ -555,9 +555,9 @@ DESCRIPTION:The Big Lebowski (1998)\n2023 Rated R16\nOur fave Coen Brother'
 DURATION:PT117M
 END:VEVENT
 BEGIN:VEVENT
-UID:403xPWUt1RcL8rxwC83Co
+UID:fV0VPvvFBYXRFu6zDhPTG
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230109T130000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -585,9 +585,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:vgiZBDaN9TbaIIMEOlv_a
+UID:JD3yZ3_1xmbOu9E6pYMCn
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230109T202000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -615,9 +615,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:cEWLPKgIM0zHlDViu_rvs
+UID:mHWPikVB9CScP59sJ7tsY
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230110T173000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -645,9 +645,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:CI9trWnlnOjtIvB41kY-r
+UID:I-M8cm_dTTmG5_ALyOx5E
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230112T123000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -675,9 +675,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:-rgKdMABJtjS9rG-bcKB2
+UID:4w8lXHnTqUUVRyOwtZFpc
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230112T200000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -705,9 +705,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:apOrjekeQbqnRm4TTj8zC
+UID:p6ejv8XTFfv_cxlOSpDYa
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230113T140000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -735,9 +735,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:myHDLrwzsnDoqzNICbUPw
+UID:oyWRXB51VW1dz4CnsbqBK
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230114T130000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -765,9 +765,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:C4mvV_NodeDZTQO8rWTl_
+UID:DR4qAVlXVi6WgpfX6zzzn
 SUMMARY:The Fabelmans
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230115T123000Z
 DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 	 Fabelmans is written by Spielberg and Pulitzer Prize-winning playwright T
@@ -795,9 +795,9 @@ DESCRIPTION:The Fabelmans\n2023 Rated M\nDirected by Steven Spielberg\, The
 DURATION:PT150M
 END:VEVENT
 BEGIN:VEVENT
-UID:Beyttptdhbpsn4Izo-hbA
+UID:I4msVIOU6E8vK2EV3a1xO
 SUMMARY:WHAS: Body Heat (1981)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230117T181500Z
 DESCRIPTION:WHAS: Body Heat (1981)\n2023 Rated R16\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -819,9 +819,9 @@ DESCRIPTION:WHAS: Body Heat (1981)\n2023 Rated R16\nPlaying as part of Acad
 DURATION:PT113M
 END:VEVENT
 BEGIN:VEVENT
-UID:aAKsuxlL-wBbJurNEQSpG
+UID:0CiIKgaPRrbLBiyXsZp1Y
 SUMMARY:WHAS: Call Me by Your Name (2017)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230203T203000Z
 DESCRIPTION:WHAS: Call Me by Your Name (2017)\n2023 Rated R13\nPlaying as p
 	art of Academy's Wet Hot Academy Summer programme of sexy Summer classics 
@@ -841,9 +841,9 @@ DESCRIPTION:WHAS: Call Me by Your Name (2017)\n2023 Rated R13\nPlaying as p
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:VaygpHLVPtuDonQX58ZTs
+UID:hzDAbve9QtKHyJ6LYEk2x
 SUMMARY:WHAS: Cape Fear (1962)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230123T181500Z
 DESCRIPTION:WHAS: Cape Fear (1962)\n2023 Rated M\nPlaying as part of Academ
 	y's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Feb 
@@ -861,9 +861,9 @@ DESCRIPTION:WHAS: Cape Fear (1962)\n2023 Rated M\nPlaying as part of Academ
 DURATION:PT106M
 END:VEVENT
 BEGIN:VEVENT
-UID:wwsgovZAFlI2fx05ReV40
+UID:TEkZg_Sq5nuvmEh25Zcwt
 SUMMARY:WHAS: Day Of the Dolphin (1973)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230124T181500Z
 DESCRIPTION:WHAS: Day Of the Dolphin (1973)\n2023 Rated G\nPlaying as part 
 	of Academy's Wet Hot Academy Summer programme of sexy Summer classics Jan 
@@ -878,9 +878,9 @@ DESCRIPTION:WHAS: Day Of the Dolphin (1973)\n2023 Rated G\nPlaying as part
 DURATION:PT104M
 END:VEVENT
 BEGIN:VEVENT
-UID:rdTkSGteRqYvlO4y9rN4r
+UID:Y6Fb4k9czPRTls3p_ts6e
 SUMMARY:WHAS: Jaws (1975)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230118T203000Z
 DESCRIPTION:WHAS: Jaws (1975)\n2023 Rated M\nPlaying as part of Academy's W
 	et Hot Academy Summer programme of sexy Summer classics Jan 13 - Feb 05 20
@@ -896,9 +896,9 @@ DESCRIPTION:WHAS: Jaws (1975)\n2023 Rated M\nPlaying as part of Academy's W
 DURATION:PT124M
 END:VEVENT
 BEGIN:VEVENT
-UID:_pdFUlgu0FiI-BSWjwNDs
+UID:yydIzrVKgwQKuKI1SZJ6L
 SUMMARY:WHAS: Point Break (1991)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230201T203000Z
 DESCRIPTION:WHAS: Point Break (1991)\n2023 Rated M\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -918,9 +918,9 @@ DESCRIPTION:WHAS: Point Break (1991)\n2023 Rated M\nPlaying as part of Acad
 DURATION:PT122M
 END:VEVENT
 BEGIN:VEVENT
-UID:YRRRIQTrPj8cZELrsKAid
+UID:b-DfdrsavH4jKk53QacsQ
 SUMMARY:WHAS: Summertime (1955)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230116T181500Z
 DESCRIPTION:WHAS: Summertime (1955)\n2023 Rated PG\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -939,9 +939,9 @@ DESCRIPTION:WHAS: Summertime (1955)\n2023 Rated PG\nPlaying as part of Acad
 DURATION:PT100M
 END:VEVENT
 BEGIN:VEVENT
-UID:IuAL2Lw70zbiBbVuxDZvv
+UID:gjSRARU5c32CM1q_oXZqe
 SUMMARY:WHAS: Swept Away (1974)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230115T180000Z
 DESCRIPTION:WHAS: Swept Away (1974)\n2023 Rated R18\nPlaying as part of Aca
 	demy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - F
@@ -961,9 +961,9 @@ DESCRIPTION:WHAS: Swept Away (1974)\n2023 Rated R18\nPlaying as part of Aca
 DURATION:PT114M
 END:VEVENT
 BEGIN:VEVENT
-UID:W2XdkynSfk6CiCFjxtHfV
+UID:1BnRr_d7otkkhWD_UY-Cj
 SUMMARY:WHAS: The Beach (1999)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230125T203000Z
 DESCRIPTION:WHAS: The Beach (1999)\n2023 Rated R16\nPlaying as part of Acad
 	emy's Wet Hot Academy Summer programme of sexy Summer classics Jan 13 - Fe
@@ -984,9 +984,9 @@ DESCRIPTION:WHAS: The Beach (1999)\n2023 Rated R16\nPlaying as part of Acad
 DURATION:PT119M
 END:VEVENT
 BEGIN:VEVENT
-UID:x3gL4CDsVDWszAa5lXcho
+UID:HsXC7m75yI09c1BaMhW7B
 SUMMARY:WHAS: The Last Of Sheila (1973)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230205T180000Z
 DESCRIPTION:WHAS: The Last Of Sheila (1973)\n2023 Rated PG\nPlaying as part
 	 of Academy's Wet Hot Academy Summer programme of sexy Summer classics Jan
@@ -1006,9 +1006,9 @@ DESCRIPTION:WHAS: The Last Of Sheila (1973)\n2023 Rated PG\nPlaying as part
 DURATION:PT120M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZFc4tchuadjFmIR7Dc6_d
+UID:nJJMNUXGPvDgAsVH7pZQe
 SUMMARY:WHAS: The Night Of the Iguana (1964)
-DTSTAMP:20221226T122000Z
+DTSTAMP:20221227T122000Z
 DTSTART:20230130T181500Z
 DESCRIPTION:WHAS: The Night Of the Iguana (1964)\n2023 Rated PG\nPlaying as
 	 part of Academy's Wet Hot Academy Summer programme of sexy Summer classic
