@@ -89,6 +89,32 @@
     ]
   },
   {
+    "url": "tr",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1664563241872_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1667972630798_Poster.jpg",
+    "title": "Early Preview Screening: TÁR",
+    "releaseDate": "2023-01-20T00:00:00.000Z",
+    "endpoint": "ST00004639",
+    "duration": "158 mins",
+    "rating": "Rated M",
+    "director": "Todd Field",
+    "actors": "Nina Hoss,Mark Strong,Noémie Merlant,Allan Corduner,Julian  Glover,Sophie Kauer,Cate Blanchett",
+    "synopsis": "Catch a special, early preview screening of TÁR - the acclaimed film everyone is saying might net Cate Blanchett a record third Oscar for what is being described as her most stunning performance yet! January 20th at Academy.<br /><br />On sale from January 1st.<br /><br />Todd Field (who directed acclaimed dramas like IN THE BEDROOM and LITTLE CHILDREN) writes and directs TÁR, a period drama with Cate Blanchett as an orchestra conductor of a German orchestra at the heights of her career.",
+    "sessionList": [
+      {
+        "date": "2023-01-20",
+        "times": [
+          {
+            "time": "8:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30454?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "url": "film-industry-selects-came-a-hot-friday-1985",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671683112643_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671683112976_Poster.jpg",
