@@ -255,6 +255,28 @@
             "attributes": []
           }
         ]
+      },
+      {
+        "date": "2023-01-16",
+        "times": [
+          {
+            "time": "4:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30456?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-17",
+        "times": [
+          {
+            "time": "4:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30459?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
       }
     ]
   },
@@ -468,6 +490,28 @@
             "attributes": []
           }
         ]
+      },
+      {
+        "date": "2023-01-16",
+        "times": [
+          {
+            "time": "1:45pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30457?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-17",
+        "times": [
+          {
+            "time": "8:40pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30458?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
       }
     ]
   },
@@ -583,6 +627,28 @@
           {
             "time": "12:30pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30449?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-16",
+        "times": [
+          {
+            "time": "8:20pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30455?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-17",
+        "times": [
+          {
+            "time": "1:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30460?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
