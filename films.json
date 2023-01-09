@@ -154,17 +154,6 @@
     "synopsis": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. But when a documentary filmmaker discovers them amongst the clutter of his Airbnb, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family. A beloved character gets his big-screen debut in this hilarious and heartwarming story about finding connection in the smallest corners.",
     "sessionList": [
       {
-        "date": "2023-01-09",
-        "times": [
-          {
-            "time": "4:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30431?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
-      {
         "date": "2023-01-10",
         "times": [
           {
@@ -510,12 +499,6 @@
         "date": "2023-01-09",
         "times": [
           {
-            "time": "1:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30432?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          },
-          {
             "time": "8:20pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30430?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
@@ -601,6 +584,32 @@
           {
             "time": "1:15pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30460?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "the-whale",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668132467501_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1668213471226_Poster.jpg",
+    "title": "The Whale",
+    "releaseDate": "2023-02-02T00:00:00.000Z",
+    "endpoint": "ST00004723",
+    "duration": "117 mins",
+    "rating": "Rated TBC",
+    "director": "Darren Aronofsky",
+    "actors": "Ty Simpkins,Hong Chau,Sadie Sink,Samantha Morton,Brendan Fraser",
+    "synopsis": "From Darren Aronofsky (BLACK SWAN, THE WRESTLER, REQUIEM FOR A DREAM) comes THE WHALE, the story of a reclusive English teacher, Charlie (Brendan Fraser), who has decided to eat himself to death. Charlie's pain and misery come from the abandonment and death of his gay lover, which leads to his chronic binge-eating. At the same time, Charlie tries to reconnect with his 17-year-old daughter for one last chance at redemption.",
+    "sessionList": [
+      {
+        "date": "2023-02-03",
+        "times": [
+          {
+            "time": "6:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30418?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
