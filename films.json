@@ -1,5 +1,53 @@
 [
   {
+    "url": "babylon",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1669771714458_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1667972632992_Poster.jpg",
+    "title": "Babylon",
+    "releaseDate": "2023-01-19T00:00:00.000Z",
+    "endpoint": "ST00004641",
+    "duration": "189 mins",
+    "rating": "Rated R18",
+    "director": "Damien Chazelle",
+    "actors": "Emma Stone,Lukas Haas,Katherine Waterston,Margot  Robbie,Jean Smart,Olivia Wilde,Samara  Weaving,Ethan Suplee,Spike Jonze,P.J. Byrne,Jovan Adepo,Eric  Roberts,Max Minghella,Liu Jun,Flea ,Phoebe Tonkin,Rory Scovel,Li Jun Li,Diego Calva,Brad Pitt",
+    "synopsis": "From Damien Chazelle, BABYLON is an original epic set in 1920s Los Angeles led by Brad Pitt, Margot Robbie and Diego Calva, with an ensemble cast including Jovan Adepo, Li Jun Li and Jean Smart. A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+    "sessionList": [
+      {
+        "date": "2023-01-20",
+        "times": [
+          {
+            "time": "4:20pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30467?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-21",
+        "times": [
+          {
+            "time": "7:40pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30470?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-22",
+        "times": [
+          {
+            "time": "7:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30471?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "url": "black-panther-wakanda-forever",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1670210471534_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1670210472062_Poster.jpg",
@@ -12,17 +60,6 @@
     "actors": "Michaela Coel,Danai  Gurira,Angela Bassett,Lupita Nyong&#x27;o,Winston Duke,Michael B. Jordan,Sterling  K. Brown,Chadwick Boseman,Letitia  Wright,Tenoch Huerta,Dominique Thorne,Mabel Cadena,Alex Livanalli,Forest Whitaker,Martin Freeman",
     "synopsis": "Playing $5 Wednesday.<br /><br />In Marvel Studios’ Black Panther: Wakanda Forever, Queen Ramonda (Angela Bassett), Shuri (Letitia Wright), M’Baku (Winston Duke), Okoye (Danai Gurira) and the Dora Milaje (including Florence Kasumba), fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia (Lupita Nyong’o) and Everett Ross (Martin Freeman) and forge a new path for the kingdom of Wakanda. Introducing Tenoch Huerta as Namor, king of a hidden undersea nation, the film also stars Dominique Thorne, Michaela Coel, Mabel Cadena and Alex Livanalli. Black Panther: Wakanda Forever, directed by Ryan Coogler and produced by Kevin Feige and Nate Moore.",
     "sessionList": [
-      {
-        "date": "2023-01-11",
-        "times": [
-          {
-            "time": "5:15pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30395?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2023-01-18",
         "times": [
@@ -63,6 +100,32 @@
     ]
   },
   {
+    "url": "early-preview-screening-the-whale",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673399596438_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673399596796_Poster.jpg",
+    "title": "Early Preview Screening: The Whale",
+    "releaseDate": "2023-01-27T00:00:00.000Z",
+    "endpoint": "ST00004809",
+    "duration": "117 mins",
+    "rating": "Rated M",
+    "director": "Darren Aronofsky",
+    "actors": "Ty Simpkins,Hong Chau,Sadie Sink,Samantha Morton,Brendan Fraser",
+    "synopsis": "Catch a special, early preview screening of THE WHALE - the big comeback for our favourite, lovable 2000s star Brendan Fraser, who is hotly tipped to be in line for an Oscar for this transformational performance! Directed by BLACK SWAN & REQUIEM FOR A DREAM's Darren Aronofsky. January 27th at Academy.<br /><br />From Darren Aronofsky (BLACK SWAN, THE WRESTLER, REQUIEM FOR A DREAM) comes THE WHALE, the story of a reclusive English teacher, Charlie (Brendan Fraser), who has decided to eat himself to death. Charlie's pain and misery come from the abandonment and death of his gay lover, which leads to his chronic binge-eating. At the same time, Charlie tries to reconnect with his 17-year-old daughter for one last chance at redemption.",
+    "sessionList": [
+      {
+        "date": "2023-01-27",
+        "times": [
+          {
+            "time": "6:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30466?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "url": "tr",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1664563241872_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1667972630798_Poster.jpg",
@@ -81,6 +144,32 @@
           {
             "time": "8:00pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30454?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "emily",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673391677032_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673391677490_Poster.jpg",
+    "title": "Emily",
+    "releaseDate": "2023-01-25T00:00:00.000Z",
+    "endpoint": "ST00004807",
+    "duration": "130 mins",
+    "rating": "Rated M",
+    "director": "Frances O&#x27;Connor",
+    "actors": "Gemma Jones,Fionn Whitehead,Emma Mackey,Adrian Dunbar",
+    "synopsis": "Playing $5 Wednesday.<br /><br />EMILY tells the imagined life of one of the world’s most famous authors, Emily Brontë. The film stars Emma Mackey (Sex Education, Death on the Nile) as Emily, a rebel and misfit, as she finds her voice and writes the literary classic ‘Wuthering Heights’. EMILY explores the relationships that inspired her – her raw, passionate sisterhood with Charlotte (Alexandra Dowling – The Musketeers) and Anne (Amelia Gething – The Spanish Princess); her first aching, forbidden love for Weightman (Oliver Jackson-Cohen – The Lost Daughter, The Haunting of Bly Manor) and her care for her maverick brother Branwell (Fionn Whitehead – The Duke, Dunkirk), whom she idolises.<br /> <br />Frances O’Connor makes her directorial debut with EMILY, from her own original screenplay. The film also stars Adrian Dunbar (Line of Duty) and Gemma Jones (Bridget Jones’s Baby, Gentleman Jack).<br /> <br />EMILY will be released in cinemas in 2022.",
+    "sessionList": [
+      {
+        "date": "2023-01-25",
+        "times": [
+          {
+            "time": "5:45pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30464?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -218,6 +307,17 @@
             "attributes": []
           }
         ]
+      },
+      {
+        "date": "2023-01-20",
+        "times": [
+          {
+            "time": "12:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30469?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
       }
     ]
   },
@@ -232,7 +332,7 @@
     "rating": "Rated R16",
     "director": "",
     "actors": "",
-    "synopsis": "A special Friday the 13th cult horror double bill to open our Wet Hot Academy Summer classic film programme, playing January 13th - February 5th!<br /><br />PIRANHA (1978)<br />95 mins<br />Director: Joe Dante<br /><br />Man has meddled again with mother nature and the result is not only deadly...it's voracious! With a clever screenplay written by John Sayles (APOLLO 13) from a story by Richard Robinson, director Joe Dante (GREMLINS) creates an eerie and devilishly fun tale of mutant piranha terrorizing a local swimming hole. <br /><br />On an inviting tranquil evening, two venturesome teenagers take a moonlit skinny-dip in the inviting waters of Lost River Lake...little did they know they would quickly become fish food for a hungry school of man-eating piranha! Their deaths prompt an investigation that reveals a governmental cover-up of a top secret experiment called Operation Razorteeth. And it only gets worse. These insatiable, gilled monsters are heading downstream where a newly opened swimming resort will give them a smorgasbord of tasty vacationers, unless a brave outdoorsman (Bradford Dillman) and a sharp, beautiful investigator (Heather Menzies) can stop their deadly spawn...for good.<br /><br /><br />HUMANOIDS FROM THE DEEP aka: MONSTER (1980)<br />80 mins<br />Director: Barbara Peeters<br /><br />Noyo's a sleepy little place, where nothing much happens. So why are people being attacked and killed by THINGS that come out of the water? The answer involves pollution and mutated sea life that's developed a taste for death. As the 'orrible humanoids lay siege to Noyo, it's up to the great Doug McClure (THE LAND THAT TIME FORGOT; WARLORDS OF ATLANTIS), to put a stop to their murderous rampages.<br /><br />Notorious for all the sex 'n' violence that producer Roger Corman insisted on adding against the director's wishes, HUMANOIDS OF THE DEEP is a monster movie for the Video Nasty age.",
+    "synopsis": "A special Friday the 13th cult horror double bill to open our Wet Hot Academy Summer classic film programme, playing January 13th - February 5th!<br /><br />Includes 20 minute intermission.<br /><br />PIRANHA (1978)<br />95 mins<br />Director: Joe Dante<br /><br />Man has meddled again with mother nature and the result is not only deadly...it's voracious! With a clever screenplay written by John Sayles (APOLLO 13) from a story by Richard Robinson, director Joe Dante (GREMLINS) creates an eerie and devilishly fun tale of mutant piranha terrorizing a local swimming hole. <br /><br />On an inviting tranquil evening, two venturesome teenagers take a moonlit skinny-dip in the inviting waters of Lost River Lake...little did they know they would quickly become fish food for a hungry school of man-eating piranha! Their deaths prompt an investigation that reveals a governmental cover-up of a top secret experiment called Operation Razorteeth. And it only gets worse. These insatiable, gilled monsters are heading downstream where a newly opened swimming resort will give them a smorgasbord of tasty vacationers, unless a brave outdoorsman (Bradford Dillman) and a sharp, beautiful investigator (Heather Menzies) can stop their deadly spawn...for good.<br /><br /><br />HUMANOIDS FROM THE DEEP aka: MONSTER (1980)<br />80 mins<br />Director: Barbara Peeters<br /><br />Noyo's a sleepy little place, where nothing much happens. So why are people being attacked and killed by THINGS that come out of the water? The answer involves pollution and mutated sea life that's developed a taste for death. As the 'orrible humanoids lay siege to Noyo, it's up to the great Doug McClure (THE LAND THAT TIME FORGOT; WARLORDS OF ATLANTIS), to put a stop to their murderous rampages.<br /><br />Notorious for all the sex 'n' violence that producer Roger Corman insisted on adding against the director's wishes, HUMANOIDS OF THE DEEP is a monster movie for the Video Nasty age.",
     "sessionList": [
       {
         "date": "2023-01-13",
@@ -261,48 +361,11 @@
     "synopsis": "Playing $5 Wednesday.<br /><br />In this rowdy and rambunctious musical dramedy, Red (Krew Boylan) is a vivacious, clumsy and occasionally misguided redhead who is at a crossroads in her life. After misreading her work party’s dress code, Red trades her 9-to-5 job in real estate for a new career as a Dolly Parton impersonator.",
     "sessionList": [
       {
-        "date": "2023-01-11",
-        "times": [
-          {
-            "time": "3:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30427?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
-      {
         "date": "2023-01-18",
         "times": [
           {
             "time": "12:15pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30450?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "she-said",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1670472074852_Poster.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1670472075225_Poster.jpg",
-    "title": "She Said",
-    "releaseDate": "2022-12-21T00:00:00.000Z",
-    "endpoint": "ST00004771",
-    "duration": "129 mins",
-    "rating": "Rated M",
-    "director": "Maria Schrader",
-    "actors": "Carey Mulligan,Zoe Kazan,Jennifer Ehle,Samantha Morton,Tom Pelphrey,Andre Braugher,Patricia Clarkson",
-    "synopsis": "Playing $5 Wednesday.<br /><br />Two-time Academy Award® nominee Carey Mulligan (Promising Young Woman, An Education) and Zoe Kazan (The Plot Against America limited series, The Big Sick) star as New York Times reporters Megan Twohey and Jodi Kantor, who together broke one of the most important stories in a generation— a story that helped propel the #Metoo movement, shattered decades of silence around the subject of sexual assault in Hollywood and altered American culture forever. <br /><br />From the Academy Award® winning producers of 12 Years a Slave, Moonlight, Minari, Selma and The Big Short and the Oscar®-nominated producer of Zero Dark Thirty and American Hustle, the film is based on the New York Times bestseller, She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement. <br /><br />She Said is directed by Emmy winner Maria Schrader (Unorthodox limited series) from a screenplay by Oscar® winner Rebecca Lenkiewicz (Ida). <br /><br />The film is produced by Academy Award® winners Brad Pitt, Dede Gardner and Jeremy Kleiner for Plan B Entertainment and is executive produced by Oscar® nominee Megan Ellison and Sue Naegle for Annapurna Pictures.",
-    "sessionList": [
-      {
-        "date": "2023-01-11",
-        "times": [
-          {
-            "time": "12:00pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30428?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -349,17 +412,6 @@
     "actors": "Barry  Keoghan,Kerry Condon,Colin Farrell,Brendan Gleeson",
     "synopsis": "Set on a remote island off the west coast of Ireland, The Banshees of Inisherin follows lifelong friends Padraic (Colin Farrell) and Colm (Brendan Gleeson), who find themselves at an impasse when Colm unexpectedly puts an end to their friendship. A stunned Padraic, aided by his sister Siobhan (Kerry Condon) and troubled young islander Dominic (Barry Keoghan), endeavours to repair the relationship, refusing to take no for an answer. But Padraic's repeated efforts only strengthen his former friend’s resolve and when Colm delivers a desperate ultimatum, events swiftly escalate, with shocking consequences. Directed by Martin McDonagh, The Banshees of Inisherin stars Colin Farrell, Brendan Gleeson, Kerry Condon, and Barry Keoghan. From a screenplay by Martin McDonagh, the film is produced by Graham Broadbent, Pete Czernin, and Martin McDonagh.",
     "sessionList": [
-      {
-        "date": "2023-01-10",
-        "times": [
-          {
-            "time": "8:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30434?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2023-01-12",
         "times": [
@@ -421,6 +473,17 @@
           {
             "time": "8:40pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30458?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-20",
+        "times": [
+          {
+            "time": "2:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30468?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -549,7 +612,7 @@
     "releaseDate": "2023-02-02T00:00:00.000Z",
     "endpoint": "ST00004723",
     "duration": "117 mins",
-    "rating": "Rated TBC",
+    "rating": "Rated M",
     "director": "Darren Aronofsky",
     "actors": "Ty Simpkins,Hong Chau,Sadie Sink,Samantha Morton,Brendan Fraser",
     "synopsis": "From Darren Aronofsky (BLACK SWAN, THE WRESTLER, REQUIEM FOR A DREAM) comes THE WHALE, the story of a reclusive English teacher, Charlie (Brendan Fraser), who has decided to eat himself to death. Charlie's pain and misery come from the abandonment and death of his gay lover, which leads to his chronic binge-eating. At the same time, Charlie tries to reconnect with his 17-year-old daughter for one last chance at redemption.",
