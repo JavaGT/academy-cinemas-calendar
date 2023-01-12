@@ -13,6 +13,17 @@
     "synopsis": "From Damien Chazelle, BABYLON is an original epic set in 1920s Los Angeles led by Brad Pitt, Margot Robbie and Diego Calva, with an ensemble cast including Jovan Adepo, Li Jun Li and Jean Smart. A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
     "sessionList": [
       {
+        "date": "2023-01-19",
+        "times": [
+          {
+            "time": "1:40pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30472?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
         "date": "2023-01-20",
         "times": [
           {
@@ -66,6 +77,17 @@
           {
             "time": "2:40pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30451?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
+        "date": "2023-01-25",
+        "times": [
+          {
+            "time": "2:20pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30475?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -348,6 +370,32 @@
     ]
   },
   {
+    "url": "puss-in-boots-the-last-wish",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673490795831_Poster.jpg",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673490796235_Poster.jpeg",
+    "title": "Puss in Boots: The Last Wish",
+    "releaseDate": "2023-02-01T00:00:00.000Z",
+    "endpoint": "ST00004815",
+    "duration": "102 mins",
+    "rating": "Rated PG",
+    "director": "Joel Crawford,Januel Mercado",
+    "actors": "Florence  Pugh,Olivia Colman,Da&#x27;Vine Joy Randolph,Chris Miller,Kaley Alyssa Flanagan,Harvey Guillén,Wagner Moura,Samson Kayo,John Mulaney,Anthony Mendez,Antonio Banderas,Salma Hayek,Ray Winstone",
+    "synopsis": "Playing $5 Wednesday.<br /><br />For the first time in more than a decade, DreamWorks Animation presents a new adventure in the Shrek universe as daring outlaw Puss in Boots discovers that his passion for peril and disregard for safety have taken their toll. Puss has burned through eight of his nine lives, though he lost count along the way. Getting those lives back will send Puss in Boots on his grandest quest yet. <br /><br />Academy Award® nominee Antonio Banderas returns as the voice of the notorious PiB as he embarks on an epic journey into the Black Forest to find the mythical Wishing Star and restore his lost lives. But with only one life left, Puss will have to humble himself and ask for help from his former partner and nemesis: the captivating Kitty Soft Paws (Oscar® nominee Salma Hayek). <br /><br />In their quest, Puss and Kitty will be aided—against their better judgment—by a ratty, chatty, relentlessly cheerful mutt, Perro (Harvey Guillén, What We Do in the Shadows). Together, our trio of heroes will have to stay one step ahead of Goldilocks (Oscar® nominee Florence Pugh, Black Widow) and the Three Bears Crime Family, “Big” Jack Horner (Emmy winner John Mulaney, Big Mouth) and terrifying bounty hunter, The Big Bad Wolf (Wagner Moura, Narcos).",
+    "sessionList": [
+      {
+        "date": "2023-02-01",
+        "times": [
+          {
+            "time": "6:15pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30474?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "url": "seriously-red",
     "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432198207_Poster.jpg",
     "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1671432198615_Poster.jpg",
@@ -396,6 +444,17 @@
             "attributes": []
           }
         ]
+      },
+      {
+        "date": "2023-01-25",
+        "times": [
+          {
+            "time": "12:00pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30476?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
       }
     ]
   },
@@ -412,17 +471,6 @@
     "actors": "Barry  Keoghan,Kerry Condon,Colin Farrell,Brendan Gleeson",
     "synopsis": "Set on a remote island off the west coast of Ireland, The Banshees of Inisherin follows lifelong friends Padraic (Colin Farrell) and Colm (Brendan Gleeson), who find themselves at an impasse when Colm unexpectedly puts an end to their friendship. A stunned Padraic, aided by his sister Siobhan (Kerry Condon) and troubled young islander Dominic (Barry Keoghan), endeavours to repair the relationship, refusing to take no for an answer. But Padraic's repeated efforts only strengthen his former friend’s resolve and when Colm delivers a desperate ultimatum, events swiftly escalate, with shocking consequences. Directed by Martin McDonagh, The Banshees of Inisherin stars Colin Farrell, Brendan Gleeson, Kerry Condon, and Barry Keoghan. From a screenplay by Martin McDonagh, the film is produced by Graham Broadbent, Pete Czernin, and Martin McDonagh.",
     "sessionList": [
-      {
-        "date": "2023-01-12",
-        "times": [
-          {
-            "time": "3:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30439?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      },
       {
         "date": "2023-01-13",
         "times": [
@@ -479,37 +527,22 @@
         ]
       },
       {
+        "date": "2023-01-19",
+        "times": [
+          {
+            "time": "8:30pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30461?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      },
+      {
         "date": "2023-01-20",
         "times": [
           {
             "time": "2:00pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30468?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "url": "the-big-lebowski",
-    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1556858011765_big-leb.jpg",
-    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1556858053864_big-lebowski-dude-walter-promo.jpg",
-    "title": "The Big Lebowski (1998)",
-    "releaseDate": "2023-01-11T00:00:00.000Z",
-    "endpoint": "ST00001399",
-    "duration": "117 mins",
-    "rating": "Rated R16",
-    "director": "Joel Coen,Ethan Coen",
-    "actors": "Steve  Buscemi,Jeff Bridges,John Goodman,John Turturro,Julianne Moore",
-    "synopsis": "Our fave Coen Brother's cult classic THE BIG LEBOWSKI is back on $5 Wednesday!<br /><br />Be prepared to purchase our delicious 'The Dude Abides' White Russian cocktail to accompany you in the screening - on sale at a discounted price ! Bathrobes also welcome, probs not bowling balls tho ~<br /><br />'Jeff Bridges plays Jeff Lebowski who insists on being called &quot;the Dude,&quot; a laid-back, easygoing burnout who happens to have the same name as a millionaire whose wife owes a lot of dangerous people a whole bunch of money -- resulting in the Dude having his rug soiled, sending him spiraling into the Los Angeles underworld.'",
-    "sessionList": [
-      {
-        "date": "2023-01-11",
-        "times": [
-          {
-            "time": "8:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30396?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
@@ -533,12 +566,6 @@
       {
         "date": "2023-01-12",
         "times": [
-          {
-            "time": "12:30pm",
-            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30440?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
-            "isSoldOut": false,
-            "attributes": []
-          },
           {
             "time": "8:00pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30438?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
@@ -597,6 +624,32 @@
           {
             "time": "1:15pm",
             "bookingLink": "https://ticketing.oz.veezi.com/purchase/30460?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
+            "isSoldOut": false,
+            "attributes": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "the-tree-of-ecstasy-and-unbearable-sadness",
+    "image-portrait": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673490792857_Poster.png",
+    "image-landscape": "https://yc.cldmlk.com/efmm2z50m9vrkwmgyt4jv8j1r0/1673490793681_Poster.jpeg",
+    "title": "The Tree of Ecstasy and Unbearable Sadness",
+    "releaseDate": "2023-03-07T00:00:00.000Z",
+    "endpoint": "ST00004813",
+    "duration": "60 mins",
+    "rating": "Rated TBC",
+    "director": "",
+    "actors": "",
+    "synopsis": "The Tree of Ecstasy and Unbearable Sadness is a masterful allegorical tale for the 21st century, weaving together the worlds of literature, music and visual art in the poignant story of one boy’s journey into mental illness. Audiences are offered a mesmerising visual and auditory tour de force about beauty and resilience, society and belief, that at its heart expresses hope for a greater understanding and embracing of difference. The narrative unfolds around the metaphor of a tree growing within the boy, whose flower is ecstasy and whose fruit is sadness. This luminous, multi-faceted work is inspired by the experiences of its award-winning creator, Matt Ottley, who has lived with bipolar disorder all his life and been hospitalised on numerous occasions in mental health facilities. Having personally experienced the prejudices and challenges that come from suffering a mental illness, Matt’s aim is to offer a sensory insight through words, music and images into the experiences of those who suffer from such debilitating illnesses, particularly psychosis. At the heart of the work is a 50-minute orchestral composition performed by the Brno Philharmonic Orchestra, the Czech Philharmonic Choir Brno and tenor Ben Reynolds. Through the film’s “Ken Burns”-like cinematic treatment Ottley invites viewers to slow down, reflect, and immerse themselves into a world of beauty and wonder.<br /><br /> <br /><br />Matt Ottley is a polymath: an author, artist, composer and musician who is best known for the 40 or so books for children and young adults he has illustrated, written, or both. His most recent picture book, How to make a bird (with Meg McKinlay), was the winner of the CBCA’s Picture Book of the Year Award and joint winner of the Prime Minister’s Award for Children’s Literature. As a composer, and an Endorsed Yamaha musician, Matt has written scores for many of his picture books, which have been performed by orchestras and musicians across Australia and internationally. This work is part of Ottley’s inter-modal initiative, The Sound of Picture BooksTM.<br /><br /> <br /><br />www.mattottley.com",
+    "sessionList": [
+      {
+        "date": "2023-03-07",
+        "times": [
+          {
+            "time": "5:30pm",
+            "bookingLink": "https://ticketing.oz.veezi.com/purchase/30473?siteToken&#x3D;v0auk7pklihk8hj1zv8c47d76o",
             "isSoldOut": false,
             "attributes": []
           }
